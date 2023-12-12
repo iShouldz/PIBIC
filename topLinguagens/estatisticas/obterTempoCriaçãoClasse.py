@@ -1,12 +1,16 @@
 import pandas as pd
 import requests
 from datetime import datetime
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+token = os.getenv('TOKEN01')
 
 df = pd.read_csv('../csv/FINALSemNulos.csv')
 
 # Filtrar linhas classificadas como 'NÃO FAMILIAR'
 df_nao_familiar = df[df['Classificacao'] == 'NÃO FAMILIAR']
-token = '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'
 
 # Função para obter o tempo de criação do GitHub do autor
 def obter_tempo_criacao(username):
