@@ -1,0 +1,49 @@
+username,repositorio,hash,linguagem_programacao,LinhasTotais,LinhasAdicionadas,LinhasRemovidas
+gonzalop,https://github.com/mono/mono,d16d4623edb210635bec3ca3786481b82cde25a2,C#,2.0,1.0,1.0
+chri4799,https://github.com/rackerlabs/openstack-guest-agents-windows-xenserver,ef16f88f20254b8083e361f11707da25f8482401,C#,635.0,521.0,114.0
+serac,https://github.com/Jasig/dotnet-cas-client,f0e030014fb7a39e5f38469f43199dc590fd0e8d,C#,2.0,1.0,1.0
+spouliot,https://github.com/mono/mono,1509226c41d74194c146deb173e752b8d3cdeec4,C#,80.0,59.0,21.0
+spouliot,https://github.com/mono/mono,9c38772f094168d8bfd5bc73bf8925cd04faad10,C#,141.0,26.0,115.0
+spouliot,https://github.com/mono/mono,b371da6b2d68b4cdd0f21d6342af6c42794f998b,C#,169.0,1.0,168.0
+Shazwazza,https://github.com/umbraco/Umbraco-CMS,924a016ffe7ae7ea6d516c07a7852f0095eddbce,C#,4.0,3.0,1.0
+Shazwazza,https://github.com/umbraco/Umbraco-CMS,18c3345e47663a358a042652e697b988d6a380eb,C#,132.0,116.0,16.0
+dlemstra,https://github.com/ImageMagick/ImageMagick,13267a10845a8dadabed63072b537f050cec6daa,C#,19.0,14.0,5.0
+autor nulo,https://github.com/recurly/recurly-client-net,9eef460c0084afd5c24d66220c8b7a381cf9a1f1,C#,104.0,52.0,52.0
+galatrash,https://github.com/dnnsoftware/Dnn.Platform,d3953db85fee77bb5e6383747692c507ef8b94c3,C#,156.0,149.0,7.0
+ElijahFowler,https://github.com/i7MEDIA/mojoportal,5ea8129f74c80cbf1f68b9083c745cc8a685485d,C#,9.0,5.0,4.0
+nul800sebastiaan,https://github.com/umbraco/Umbraco-CMS,fe2b86b681455ac975b294652064b2718d4e2ba2,C#,4.0,2.0,2.0
+nul800sebastiaan,https://github.com/umbraco/Umbraco-CMS,5dde2efe0d2b3a47d17439e03acabb7ea2befb64,C#,6.0,4.0,2.0
+autor nulo,https://github.com/Ulterius/server,770d1821de43cf1d0a93c79025995bdd812a76ee,C#,7662.0,2976.0,4686.0
+autor nulo,https://github.com/OPCFoundation/UA-.NET-Legacy,e2a781b38efb8686d2bd850c2f2372b5c670bc45,C#,435.0,108.0,327.0
+brockallen,https://github.com/IdentityServer/IdentityServer4,21d0da227f50ac102de469a13bc5a15d2cc0f895,C#,8.0,5.0,3.0
+mythz,https://github.com/ServiceStack/ServiceStack,a0e0d7de20f5d1712f1793f925496def4383c610,C#,5.0,3.0,2.0
+rxtur,https://github.com/blogifierdotnet/Blogifier,3e2ae11f6be8aab82128f223c2916fab5a408be5,C#,49.0,39.0,10.0
+shivambareria,https://github.com/SparkDevNetwork/Rock,576f5ec22b1c43f123a377612981c68538167c61,C#,203.0,45.0,158.0
+d4nt,https://github.com/d4software/QueryTree,57b700823f8eb1a42eb3bc0c706fbe5e5f5e766f,C#,48.0,31.0,17.0
+autor nulo,https://github.com/martinjw/dbschemareader,4c0ab7b1fd8c4e3140f9fd54d303f107a9c8d994,C#,598.0,468.0,130.0
+mganss,https://github.com/mganss/HtmlSanitizer,a3a7602a44d4155d51ec0fbbedc2a49e9c7e2eb8,C#,15.0,14.0,1.0
+muratcakir,https://github.com/smartstore/SmartStoreNET,8702c6140f4fc91956ef35dba12d24492fb3f768,C#,21.0,17.0,4.0
+mythz,https://github.com/ServiceStack/ServiceStack,540d4060e877a03ae95343c1a8560a26768585ee,C#,6.0,6.0,0.0
+mgesing,https://github.com/smartstore/SmartStoreNET,5ab1e37dc8d6415d04354e1a116f3d82e9555f5c,C#,5.0,5.0,0.0
+AndersAbel,https://github.com/Sustainsys/Saml2,e58e0a1aff2b1ead6aca080b7cdced55ee6d5241,C#,90.0,55.0,35.0
+turquoiseowl,https://github.com/turquoiseowl/i18n,c418e3345313dc896c1951d8c46ab0b9b12fcbd3,C#,9.0,7.0,2.0
+autor nulo,https://github.com/kolya5544/BearFTP,9965337f9d4c0325e4aab324dcd485e4cbb7b428,C#,267.0,229.0,38.0
+autor nulo,https://github.com/kolya5544/BearFTP,17a6ead72d4a25cbfcef5e27613aa0a5f88a4b26,C#,58.0,14.0,44.0
+autor nulo,https://github.com/kolya5544/BearFTP,66dc9d95e58bca133f265457d32007cdf38b66ad,C#,754.0,391.0,363.0
+joshuaboniface,https://github.com/jellyfin/jellyfin,0183ef8e89195f420c48d2600bc0b72f6d3a7fd7,C#,70.0,61.0,9.0
+trung-tran-sts,https://github.com/trannamtrung1st/elFinder.Net.Core,5498c8a86b76ef089cfbd7ef8be014b61fa11c73,C#,219.0,179.0,40.0
+mguinness,https://github.com/mguinness/elFinder.AspNet,675049b39284a9e84f0915c71d688da8ebc7d720,C#,16.0,16.0,0.0
+kennethmyhra,https://github.com/FirelyTeam/spark,9c79320059f92d8aa4fbd6cc4fa8f9d5d6ba9941,C#,36.0,28.0,8.0
+JustArchi,https://github.com/JustArchiNET/ArchiSteamFarm,4cd581ec041912cf199c5512fe6d1dcaec0594c0,C#,26.0,24.0,2.0
+piksel,https://github.com/icsharpcode/SharpZipLib,a0e96de70b5264f4c919b09253b1522bc7a221cc,C#,74.0,74.0,0.0
+piksel,https://github.com/icsharpcode/SharpZipLib,5c3b293de5d65b108e7f2cd0ea8f81c1b8273f78,C#,3.0,2.0,1.0
+jchristn,https://github.com/jchristn/IpMatcher,81d77c2f33aa912dbd032b34b9e184fc6e041d89,C#,31.0,28.0,3.0
+NicolasDorier,https://github.com/btcpayserver/btcpayserver,fc4e47cec608cc3dba24b19d0145ac69320b975e,C#,314.0,224.0,90.0
+michaelschwarz,https://github.com/michaelschwarz/Ajax.NET-Professional,c89e39b9679fcb8ab6644fe21cc7e652cb615e2b,C#,14.0,5.0,9.0
+sebastienros,https://github.com/orchardcms/orchardcore,4da927d39a49138527c30db09c962ff706f95202,C#,45.0,27.0,18.0
+sebastienros,https://github.com/orchardcms/orchardcore,218f25ddfadb66a54de7a82dffe3ab2e4ab7c4b4,C#,165.0,144.0,21.0
+sebastienros,https://github.com/orchardcms/orchardcore,b7096af1028d8f909f63dd076d1bbd573913a92d,C#,166.0,118.0,48.0
+JustArchi,https://github.com/JustArchiNET/ArchiSteamFarm,f807bdb660e75dee5a34994f2ea70970ca6d0492,C#,285.0,154.0,131.0
+majora2007,https://github.com/kareadita/kavita,9c31f7e7c81b919923cb2e3857439ec0d16243e4,C#,221.0,171.0,50.0
+skoshelev,https://github.com/nopSolutions/nopCommerce,47ff9a241243db9359f10216bcf401baaa36d0b4,C#,2.0,2.0,0.0
+drieseng,https://github.com/sshnet/SSH.NET,03c6d60736b8f7b42e44d6989a53f9b644a091fb,C#,4.0,1.0,3.0

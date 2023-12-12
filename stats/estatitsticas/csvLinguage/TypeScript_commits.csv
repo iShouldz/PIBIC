@@ -1,0 +1,76 @@
+username,repositorio,hash,linguagem_programacao,LinhasTotais,LinhasAdicionadas,LinhasRemovidas
+nijel,https://github.com/phpmyadmin/phpmyadmin,11496890d7e21786cbfd9fd17ab968f498116b3f,TypeScript,5.0,2.0,3.0
+mrvautin,https://github.com/mrvautin/expressCart,baccaae9b0b72f00b10c5453ca00231340ad3e3b,TypeScript,93.0,49.0,44.0
+samhocevar,https://github.com/cacalabs/libcaca,3e52dabe3e64dc50f4422effe364a1457a8a8592,TypeScript,10.0,5.0,5.0
+omphalos,https://github.com/omphalos/crud-file-server,4155bfe068bf211b49a0b3ffd06e78cbaf1b40fa,TypeScript,4.0,3.0,1.0
+ebluestein,https://github.com/facebook/nuclide,65f6bbd683404be1bb569b8d1be84b5d4c74a324,TypeScript,11.0,11.0,0.0
+autor nulo,https://github.com/kellyselden/git-diff-apply,106d61d3ae723b4257c2a13e67b95eb40a27e0b5,TypeScript,3.0,2.0,1.0
+n1474335,https://github.com/gchq/CyberChef,01f0625d6a177f9c5df9281f12a27c814c2d8bcf,TypeScript,2.0,1.0,1.0
+jcramer,https://github.com/simpleledger/slpjs,3671be2ffb6d4cfa94c00c6dc8649d1ba1d75754,TypeScript,16.0,10.0,6.0
+jcramer,https://github.com/simpleledger/slp-validate,cde95c0c6470dceb4f023cd462f904135ebd73e7,TypeScript,16.0,10.0,6.0
+FBNeal,https://github.com/facebook/react-native,ca09ae82715e33c9ac77b3fa55495cf84ba891c7,TypeScript,2.0,1.0,1.0
+apple502j,https://github.com/ScratchAddons/ScratchAddons,b9a52d6532c8514254c7cc1d8e18710dbedc41ff,TypeScript,5.0,4.0,1.0
+autor nulo,https://github.com/autovance/ftp-srv,457b859450a37cba10ff3c431eb4aa67771122e3,TypeScript,72.0,52.0,20.0
+AllanZhengYP,https://github.com/aws/aws-sdk-js-v3,a209082dff913939672bb069964b33aa4c5409a9,TypeScript,53.0,42.0,11.0
+darrachequesne,https://github.com/socketio/engine.io,734f9d1268840722c41219e69eb58318e0b2ac6b,TypeScript,2.0,1.0,1.0
+acinader,https://github.com/parse-community/parse-server,3a3a5eee5ffa48da1352423312cb767de14de269,TypeScript,215.0,212.0,3.0
+kessiler,https://github.com/typestack/class-transformer,8f04eb9db02de708f1a20f6f2d2bb309b2fed01e,TypeScript,18.0,18.0,0.0
+Romakita,https://github.com/TypedProject/tsed,1395773ddac35926cf058fc6da9fb8e82266761b,TypeScript,59.0,28.0,31.0
+joelgriffith,https://github.com/browserless/chrome,848b87e5bea4f8473eea85261a5ff922d6ebd2b6,TypeScript,9.0,8.0,1.0
+bjrmatos,https://github.com/jsreport/jsreport-chrome-pdf,6750b2f77d05cb843aefc1c4a98097a3bd33a6a2,TypeScript,19.0,19.0,0.0
+12wrigja,https://github.com/google/closure-library,294fc00b01d248419d8f8de37580adf2a0024fc9,TypeScript,31.0,25.0,6.0
+SychO9,https://github.com/flarum/sticky,7ebd30462bd405c4c0570b93a6d48710e6c3db19,TypeScript,3.0,2.0,1.0
+autor nulo,https://github.com/wireapp/wire-webapp,281f2a9d795f68abe423c116d5da4e1e73a60062,TypeScript,11.0,11.0,0.0
+jhildenbiddle,https://github.com/docsifyjs/docsify,ff2a66f12752471277fe81a64ad6c4b2c08111fe,TypeScript,34.0,33.0,1.0
+nolimits4web,https://github.com/nolimits4web/swiper,9dad2739b7474f383474773d5ab898a0c29ac178,TypeScript,2.0,1.0,1.0
+autor nulo,https://github.com/wanasit/chrono,98815b57622443b5c498a427210ebd603d705f4c,TypeScript,79.0,50.0,29.0
+TooTallNate,https://github.com/TooTallNate/node-degenerator,9d25bb67d957bc2e5425fea7bf7a58b3fc64ff9e,TypeScript,33.0,26.0,7.0
+TooTallNate,https://github.com/TooTallNate/node-degenerator,ccc3445354135398b6eb1a04c7d27c13b833f2d5,TypeScript,11.0,9.0,2.0
+tony-tsx,https://github.com/tony-tsx/cookiex-deep,b5bea2b7f34a5fa9abb4446cbd038ecdbcd09c88,TypeScript,4.0,2.0,2.0
+thetutlage,https://github.com/edge-js/edge,fa2c7fde86327aeae232752e89a6e37e2e469e21,TypeScript,37.0,27.0,10.0
+autor nulo,https://github.com/flitbit/json-ptr,5dc458fbad1c382a2e3ca6d62e66ede3d92849ca,TypeScript,83.0,83.0,0.0
+vlad-tkachenko,https://github.com/FireBlinkLTD/object-collider,321f75a7f8e7b3393e5b7dd6dd9ab26ede5906e5,TypeScript,66.0,44.0,22.0
+boutell,https://github.com/apostrophecms/apostrophe,c211b211f9f4303a77a307cf41aac9b4ef8d2c7c,TypeScript,7.0,4.0,3.0
+julianguyen,https://github.com/ifmeorg/ifme,83fd44ef8921a8dcf394a012e44901ab08596bdc,TypeScript,3.0,2.0,1.0
+JoeScho,https://github.com/JoeScho/get-ip-range,98ca22b815c77273cbab259811ab0976118e13b6,TypeScript,24.0,24.0,0.0
+rakibtg,https://github.com/rakibtg/docker-web-gui,79cdc41809f2030fce21a1109898bd79e4190661,TypeScript,82.0,75.0,7.0
+Half-Shot,https://github.com/matrix-org/matrix-appservice-bridge,b69e745584a34fcfd858df33e4631e420da07b9f,TypeScript,7.0,7.0,0.0
+redreceipt,https://github.com/ApollosProject/apollos-apps,cb5f8f1c0b24f1b215b2bb5eb6f9a8e16d728ce2,TypeScript,23.0,12.0,11.0
+AlexTugarev,https://github.com/gitpod-io/gitpod,8ca431f86ae3a6f9a17afcfed51cdd065fcff1a5,TypeScript,6.0,6.0,0.0
+tux-tn,https://github.com/validatorjs/validator.js,496fc8b2a7f5997acaaec33cc44d0b8dba5fb5e1,TypeScript,15.0,12.0,3.0
+Chocobozzz,https://github.com/chocobozzz/peertube,0ea2f79d45b301fcd660efc894469a99b2239bf6,TypeScript,38.0,24.0,14.0
+ready-research,https://github.com/nervjs/taro,acadb6c826ba57f2030a626f1de4f7b4608fcdb5,TypeScript,2.0,1.0,1.0
+ready-research,https://github.com/cdr/code-server,ca617df135e78833f93c8320cb2d2cf8bba809f5,TypeScript,2.0,1.0,1.0
+drauggres,https://github.com/netristv/ws-scrcpy,e83cf65438bef83a3503b25358bba97bcc156fef,TypeScript,5.0,5.0,0.0
+yuki-takei,https://github.com/weseek/growi,863bfd7f622f413bd159b9446166fb1ce78ec863,TypeScript,65.0,30.0,35.0
+BlackHole1,https://github.com/netless-io/flat-server,425aa970f6366874c61aa1466527fced5501e476,TypeScript,21.0,19.0,2.0
+syuilo,https://github.com/misskey-dev/misskey,ec203f7f795766f76b55fecc9248168c1cdf6c99,TypeScript,4.0,2.0,2.0
+bigopon,https://github.com/aurelia/path,7c4e235433a4a2df9acc313fbe891758084fdec1,TypeScript,666.0,351.0,315.0
+nicolas-van,https://github.com/nicolas-van/modern-async,0010d28de1b15d51db3976080e26357fa7144436,TypeScript,2.0,1.0,1.0
+mhevery,https://github.com/angular/angular,ba8da742e3b243e8f43d4c63aa842b44e14f2b09,TypeScript,107.0,76.0,31.0
+joeattardi,https://github.com/joeattardi/emoji-button,fe54bef107eb3f74873a4018f2ff49fa124c6a2e,TypeScript,12.0,8.0,4.0
+barisusakli,https://github.com/NodeBB/NodeBB,c8b2fc46dc698db687379106b3f01c71b80f495f,TypeScript,13.0,11.0,2.0
+NGPixel,https://github.com/Requarks/wiki,57b56d3a5b9c00358814e76f3ee5b4bb353ad62f,TypeScript,8.0,7.0,1.0
+zaidka,https://github.com/genieacs/genieacs,7f295beeecc1c1f14308a93c82413bb334045af6,TypeScript,13.0,13.0,0.0
+AndrewBastin,https://github.com/hoppscotch/hoppscotch,86ef1a4e143ea5bb0c7b309574127cc39d4faa74,TypeScript,1.0,1.0,0.0
+Chocobozzz,https://github.com/chocobozzz/peertube,7b54a81cccf6b4c12269e9d6897d608b1a99537a,TypeScript,46.0,46.0,0.0
+fayazara,https://github.com/chatwoot/chatwoot,dd1fe4f93a6fbafa1d1eed87ac7d4143e701ec08,TypeScript,21.0,18.0,3.0
+gsmithun4,https://github.com/tooljet/tooljet,fadf025365823cbbc739a1313791c0a04621972b,TypeScript,1331.0,788.0,543.0
+dfahlander,https://github.com/dexie/Dexie.js,1d655a69b9f28c3af6fae10cf5c61df387dc689b,TypeScript,2.0,1.0,1.0
+darrachequesne,https://github.com/socketio/engine.io,c0e194d44933bd83bf9a4b126fca68ba7bf5098c,TypeScript,43.0,40.0,3.0
+artf,https://github.com/artf/grapesjs,13e85d152d486b968265c4b8017e8901e7d89ff3,TypeScript,58.0,26.0,32.0
+michaelbromley,https://github.com/vendure-ecommerce/vendure,69a44869112c0a5b836e2ddd3969ea9b533f51f0,TypeScript,2.0,2.0,0.0
+akshaysasidrn,https://github.com/ToolJet/ToolJet,eacbfc4c9da089ff9cda9edf8a1156390ae8a101,TypeScript,27.0,19.0,8.0
+zadam,https://github.com/zadam/trilium,1dfc37704fdd90ab7afbd8a586bdfc5cfaadeb8a,TypeScript,5.0,1.0,4.0
+bcldvd,https://github.com/Finastra/ssr-pages,98abc59e28fec48246be0d59ac144675d6361073,TypeScript,2.0,1.0,1.0
+adamjmcgrath,https://github.com/auth0/express-openid-connect,0947b92164a2c5f661ebcc183d37e7f21de719ad,TypeScript,20.0,19.0,1.0
+atomrc,https://github.com/wireapp/wire-webapp,d14455252a949dc83f36d45e2babbdd9328af2a4,TypeScript,6.0,3.0,3.0
+digitalsadhu,https://github.com/podium-lib/proxy,9698a40df081217ce142d4de71f929baaa339cdf,TypeScript,58.0,58.0,0.0
+yagebu,https://github.com/beancount/fava,dccfb6a2f4567f35ce2e9a78e24f92ebf946bc9b,TypeScript,12.0,9.0,3.0
+yagebu,https://github.com/beancount/fava,68bbb6e39319deb35ab9f18d0b6aa9fa70472539,TypeScript,116.0,73.0,43.0
+dvesh3,https://github.com/pimcore/pimcore,2fd46859c1def6b5ab79ae2b9cb88c309769443d,TypeScript,7.0,5.0,2.0
+autor nulo,https://github.com/auth0/lock,79ae557d331274b114848150f19832ae341771b1,TypeScript,77.0,75.0,2.0
+balazsorban44,https://github.com/nextauthjs/next-auth,e498483b23273d1bfc81be68339607f88d411bd6,TypeScript,16.0,16.0,0.0
+mtrezza,https://github.com/parse-community/parse-server,9fd4516cde5c742f9f29dd05468b4a43a85639a6,TypeScript,148.0,125.0,23.0
+jordansexton,https://github.com/solana-labs/solana-pay,ac6ce0d0a81137700874a8bf5a7caac3be999fad,TypeScript,78.0,60.0,18.0
+imbrn,https://github.com/imbrn/v8n,92393862156fad190c05ec3f6e2bc73308dcd2f9,TypeScript,10.0,8.0,2.0

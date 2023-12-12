@@ -1,0 +1,40 @@
+username,repositorio,hash,linguagem_programacao,LinhasTotais,LinhasAdicionadas,LinhasRemovidas
+adrianschroeter,https://github.com/openSUSE/open-build-service,76b0ab003f34435ca90d943e02dd22279cdeec2a,Shell,29.0,14.0,15.0
+autor nulo,https://github.com/torvalds/linux,1309d7afbed112f0e8e90be9af975550caa0076b,Shell,2.0,1.0,1.0
+autor nulo,https://github.com/bitcoin/bitcoin,8864019f6d88b13d3442843d9e6ebeb8dd938831,Shell,5.0,3.0,2.0
+ares,https://github.com/jsomara/katello,65f1e42b7bda0f3410931c50598540d944d8bf0d,Shell,2.0,1.0,1.0
+brenton,https://github.com/openshift/origin-server,f1abe972794e35a4bfba597694ce829990f14d39,Shell,2.0,1.0,1.0
+autor nulo,https://github.com/lxc/lxc,f4d5cc8e1f39d132b61e110674528cac727ae0e2,Shell,2.0,1.0,1.0
+zoulasc,https://github.com/file/file,ef2329cf71acb59204dd981e2c6cce6c81fe467c,Shell,4.0,2.0,2.0
+zoulasc,https://github.com/file/file,71a8b6c0d758acb0f73e2e51421a711b5e9d6668,Shell,5.0,2.0,3.0
+allisonkarlitskaya,https://github.com/desrt/systemd-shim,d2e91c118f6128875274a638007702d1cc665893,Shell,4.0,0.0,4.0
+rhansen,https://github.com/git/git,8976500cbbb13270398d3b3e07a17b8cc7bff43f,Shell,78.0,54.0,24.0
+BrendanCunningham,https://github.com/01org/opa-ff,080ab97461d80a01636f77ba6aecc667c3c0087c,Shell,99.0,57.0,42.0
+BrendanCunningham,https://github.com/01org/opa-fm,5f4087aabb5d03c42738b320af0fc60e9df4d1f7,Shell,8.0,5.0,3.0
+keszybz,https://github.com/systemd/systemd,afae249efa4774c6676738ac5de6aeb4daf4889f,Shell,2.0,2.0,0.0
+yunosh,https://github.com/horde/horde,4d8176d1e9ef5cbd2b3fcacd9b9a4c8e482fb424,Shell,4.0,2.0,2.0
+autor nulo,https://github.com/dracutdevs/dracut,0db98910a11c12a454eac4c8e86dc7a7bbc764a4,Shell,2.0,1.0,1.0
+jlu5,https://github.com/gnome-exe-thumbnailer/gnome-exe-thumbnailer,1d8e3102dd8fd23431ae6127d14a236da6b4a4a5,Shell,21.0,3.0,18.0
+orlitzky,https://github.com/NagiosEnterprises/nagioscore,3baffa78bafebbbdf9f448890ba5a952ea2d73cb,Shell,4.0,2.0,2.0
+guyharris,https://github.com/the-tcpdump-group/tcpdump,6ec0c6fa63412c7a07a5bcb790a529c3563b4173,Shell,6.0,6.0,0.0
+karelzak,https://github.com/karelzak/util-linux,75f03badd7ed9f1dd951863d75e756883d3acc55,Shell,9.0,5.0,4.0
+falconindy,https://github.com/shadow-maint/shadow,edf7547ad5aa650be868cf2dac58944773c12d75,Shell,6.0,5.0,1.0
+Smjert,https://github.com/osquery/osquery,4d4957f12a6aa0becc9d01d9f97061e1e3d809c5,Shell,8.0,1.0,7.0
+xiphon,https://github.com/monero-project/monero-gui,6ed536982953d870010d8fa065dccbffeb6cae50,Shell,1.0,1.0,0.0
+rwwiv,https://github.com/Security-Onion-Solutions/securityonion,b14670030349a2747a00ace665568ab5f51ac47b,Shell,11.0,11.0,0.0
+lkiesow,https://github.com/opencast/opencast,72fad0031d8a82c860e2bde0b27570c5042320ee,Shell,10.0,5.0,5.0
+vuvova,https://github.com/MariaDB/server,9d18b6246755472c8324bf3e20e234e08ac45618,Shell,32.0,18.0,14.0
+aKandzior,https://github.com/alkacon/mercury-template,800945f5d02346c633c7aef9f5d596d7dedc8fb5,Shell,11.0,6.0,5.0
+jaapmarcus,https://github.com/hestiacp/hestiacp,9a1fccd37f2842fdf96ffb48895c4bfa9788c469,Shell,7.0,7.0,0.0
+autor nulo,https://github.com/torvalds/linux,298a58e165e447ccfaae35fe9f651f9d7e15166f,Shell,107.0,0.0,107.0
+mliradelc,https://github.com/opencast/opencast,8ae27da5a6f658011a5741b3210e715b0dc6213e,Shell,6.0,5.0,1.0
+iamEAP,https://github.com/backstage/backstage,aad98c544e59369901fe9e0a85f6357644dceb5c,Shell,7.0,7.0,0.0
+pmu-ipf,https://github.com/ipfire/ipfire-2.x,6769d909306d7bdc43d64598872126fcf1b217f6,Shell,7.0,4.0,3.0
+digint,https://github.com/digint/btrbk,58212de771c381cd4fa05625927080bf264e9584,Shell,2.0,1.0,1.0
+mcornella,https://github.com/ohmyzsh/ohmyzsh,6cb41b70a6d04301fd50cd5862ecd705ba226c0e,Shell,5.0,2.0,3.0
+DonLoquacious,https://github.com/signalwire/freeswitch,b21dd4e7f3a6f1d5f7be3ea500a319a5bc11db9e,Shell,8.0,8.0,0.0
+antobinary,https://github.com/bigbluebutton/bigbluebutton,62040bdcb3c2f993ba72ab89f4db2015e18d1706,Shell,4.0,1.0,3.0
+mwleeds,https://github.com/flatpak/flatpak,54ec1a482dfc668127eaae57f135e6a8e0bc52da,Shell,160.0,160.0,0.0
+bobimicroweber,https://github.com/microweber/microweber,de6d17b52d261902653fbdd2ecefcaac82e54256,Shell,1.0,0.0,1.0
+sroettger,https://github.com/google/kctf,8cf050be974fcc2fd8aa136701f9a66f2b2a5202,Shell,7.0,4.0,3.0
+comrumino,https://github.com/pyenv/pyenv,22fa683571d98b59ea16e5fe48ac411c67939653,Shell,25.0,22.0,3.0

@@ -1,0 +1,13 @@
+username,repositorio,hash,linguagem_programacao,LinhasTotais,LinhasAdicionadas,LinhasRemovidas
+porcelli,https://github.com/droolsjbpm/kie-wb-distributions,90eed433d36b21265fdf978252b8619766b8e74b,PowerShell,694.0,675.0,19.0
+mbeccati,https://github.com/revive-adserver/revive-adserver,e17a7ec3412ded751cda50b82338de471d656d74,PowerShell,8.0,4.0,4.0
+sjamaan,https://github.com/ashinn/irregex,a16ffc86eca15fca9e40607d41de3cea9cf868f1,PowerShell,34.0,20.0,14.0
+eldy,https://github.com/eldy/awstats,06c0ab29c1e5059d9e0279c6b64d573d619e1651,PowerShell,14.0,9.0,5.0
+eldy,https://github.com/eldy/awstats,cf219843a74c951bf5986f3a7fffa3dcf99c3899,PowerShell,19.0,14.0,5.0
+pakoito,https://github.com/arrow-kt/arrow,74198dab522393487d5344f194dc21208ab71ae8,PowerShell,8.0,4.0,4.0
+mwallner,https://github.com/chocolatey/boxstarter,67e320491813550b48900e87105a34ceefdcf633,PowerShell,125.0,116.0,9.0
+c00kiemon5ter,https://github.com/IdentityPython/pysaml2,5e9d5acbcd8ae45c4e736ac521fd2df5b1c62e25,PowerShell,99.0,99.0,0.0
+paulegradie,https://github.com/OctopusDeploy/OctopusDSC,24b448e6ac964ed938475add494a145c0473ac42,PowerShell,64.0,23.0,41.0
+dandavison,https://github.com/dandavison/delta,f01846bd443aaf92fdd5ac20f461beac3f6ee3fd,PowerShell,227.0,161.0,66.0
+The-Compiler,https://github.com/qutebrowser/qutebrowser,8f46ba3f6dc7b18375f7aa63c48a1fe461190430,PowerShell,89.0,87.0,2.0
+jens-maus,https://github.com/jens-maus/RaspberryMatic,34854659a63e9fb3ad529bb413e96978c6450a53,PowerShell,126.0,111.0,15.0

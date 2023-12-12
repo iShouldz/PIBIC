@@ -1,0 +1,8 @@
+username,repositorio,hash,linguagem_programacao,LinhasTotais,LinhasAdicionadas,LinhasRemovidas
+autor nulo,https://github.com/sqlite/sqlite,73bacb7f93eab9f4bd5a65cbc4ae242acf63c9e3,Jupyter Notebook,16.0,8.0,8.0
+autor nulo,https://github.com/sqlite/sqlite,1e490c4ca6b43a9cf8637d695907888349f69bec,Jupyter Notebook,26.0,19.0,7.0
+trasher,https://github.com/glpi-project/glpi,f1ae6c8481e5c19a6f1801a5548cada45702e01a,Jupyter Notebook,861.0,789.0,72.0
+autor nulo,https://github.com/PHPOffice/PhpSpreadsheet,0ed5b800be2136bcb8fa9c1bdf59abc957a98845,Jupyter Notebook,933.0,631.0,302.0
+M-ichae-l,https://github.com/ambiot/amb1_arduino,dcea55cf9775a0166805b3db845b237ecd5e74ea,Jupyter Notebook,30.0,30.0,0.0
+samdark,https://github.com/yiisoft/yii2,13f27e4d920a05d53236139e8b07007acd046a46,Jupyter Notebook,438.0,85.0,353.0
+bmc-msft,https://github.com/microsoft/onefuzz,2fcb4998887959b4fa11894a068d689189742cb1,Jupyter Notebook,224.0,193.0,31.0

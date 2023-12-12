@@ -1,0 +1,13 @@
+username,repositorio,hash,linguagem_programacao,LinhasTotais,LinhasAdicionadas,LinhasRemovidas
+autor nulo,https://github.com/ntp-project/ntp,553f2fa65865c31c5e3c48812cfd46176cffdd27,Haskell,139.0,80.0,59.0
+madhuracj,https://github.com/phpmyadmin/phpmyadmin,785f4e2711848eb8945894199d5870253a88584e,Haskell,51.0,15.0,36.0
+autor nulo,https://github.com/vadz/libtiff,43bc256d8ae44b92d2734a3c5bc73957a4d7c1ec,Haskell,15.0,15.0,0.0
+westes,https://github.com/westes/flex,a5cbe929ac3255d371e698f62dc256afe7006466,Haskell,2.0,1.0,1.0
+javacruft,https://github.com/openstack/nova-lxd,1b76cefb92081efa1e88cd8f330253f857028bd2,Haskell,9.0,6.0,3.0
+ecthiender,https://github.com/hasura/graphql-engine,f2f14e727b051e3003ba44b9b63eab8186b291ac,Haskell,281.0,252.0,29.0
+rejetto,https://github.com/rejetto/hfs2,b8ebfc4e22948e1a61506cd66e397b61ea5ea5de,Haskell,79.0,47.0,32.0
+akshaymankar,https://github.com/wireapp/wire-server,7ba2bf4140282557cf215e0b2c354d4d08cd3421,Haskell,44.0,28.0,16.0
+mflatt,https://github.com/racket/racket,6ca4ffeca1e5877d44f835760ad89f18488d97e1,Haskell,94.0,84.0,10.0
+jgm,https://github.com/jgm/gitit,eed32638f4f6e3b2f4b8a9a04c4b72001acf9ad8,Haskell,393.0,9.0,384.0
+remdex,https://github.com/livehelperchat/livehelperchat,2a98c69cf8899afb9a76d737527abb1dd96fa106,Haskell,237.0,102.0,135.0
+Aloso,https://github.com/rulex-rs/rulex,fac6d58b25c6f9f8c0a6cdc4dec75b37b219f1d6,Haskell,55.0,37.0,18.0

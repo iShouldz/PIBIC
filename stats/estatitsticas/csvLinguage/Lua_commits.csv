@@ -1,0 +1,36 @@
+username,repositorio,hash,linguagem_programacao,LinhasTotais,LinhasAdicionadas,LinhasRemovidas
+creshal,https://github.com/axkibe/lsyncd,18f02ad013b41a72753912155ae2ba72f2a53e52,Lua,8.0,5.0,3.0
+autor nulo,https://github.com/axkibe/lsyncd,e6016b3748370878778b8f0b568d5281cc248aa4,Lua,12.0,7.0,5.0
+autor nulo,https://github.com/arslancb/clipbucket,ff5e37d3e1098a7ce2b9fe60389b14514932dd93,Lua,859.0,856.0,3.0
+smalyshev,https://github.com/php/php-src,6c5211a0cef0cc2854eaa387e0eb036e012904d0,Lua,92.0,50.0,42.0
+segiddins,https://github.com/rubygems/rubygems,1bcbc7fe637b03145401ec9c094066285934a7f1,Lua,8.0,4.0,4.0
+evanphx,https://github.com/rubygems/rubygems,ef0aa611effb5f54d40c7fba6e8235eb43c5a491,Lua,55.0,53.0,2.0
+segiddins,https://github.com/rubygems/rubygems,8a38a4fc24c6591e6c8f43d1fadab6efeb4d6251,Lua,56.0,55.0,1.0
+guyharris,https://github.com/the-tcpdump-group/tcpdump,866c60236c41cea1e1654c8a071897292f64be49,Lua,27.0,27.0,0.0
+lucaderi,https://github.com/ntop/ntopng,1b2ceac8f578a246af6351c4f476e3102cdf21b3,Lua,8.0,8.0,0.0
+radare,https://github.com/radare/radare2,bd276ef2fd8ac3401e65be7c126a43175ccfbcd7,Lua,16.0,11.0,5.0
+radare,https://github.com/radareorg/radare2,d37d2b858ac47f2f108034be0bcecadaddfbc8b3,Lua,6.0,5.0,1.0
+wiiaboo,https://github.com/mpv-player/mpv,e6e6b0dcc7e9b0dbf35154a179b3dc1fcfcaff43,Lua,54.0,47.0,7.0
+jow-,https://github.com/openwrt/luci,9e4b8a91384562e3baee724a52b72e30b1aa006d,Lua,4.0,2.0,2.0
+autor nulo,https://github.com/libra/libra,7efb0221989f17fdf7f8486730898ed947a1e19e,Lua,164.0,147.0,17.0
+jow-,https://github.com/openwrt/luci,f8c6eb67cd9da09ee20248fec6ab742069635e47,Lua,8.0,6.0,2.0
+sorpaas,https://github.com/paritytech/libsecp256k1,11ba23a9766a5079918cd9f515bc100bc8164b50,Lua,40.0,23.0,17.0
+gazay,https://github.com/gazay/gon,fe3c7b2191a992386dc9edd37de5447a4e809bc7,Lua,32.0,27.0,5.0
+dingelish,https://github.com/dingelish/rust-base64,a554b7ae880553db6dde8a387101a093911d5b2a,Lua,97.0,91.0,6.0
+brammool,https://github.com/vim/vim,35a319b77f897744eec1155b736e9372c9c5575f,Lua,22.0,20.0,2.0
+brammool,https://github.com/vim/vim,0b5b06cb4777d1401fdf83e7d48d287662236e7e,Lua,12.0,12.0,0.0
+brammool,https://github.com/vim/vim,e031fe90cf2e375ce861ff5e5e281e4ad229ebb9,Lua,25.0,22.0,3.0
+usc-m,https://github.com/RasaHQ/rasa,1b6b502f52d73b4f8cd1959ce724b8ad0eb33989,Lua,456.0,275.0,181.0
+thestr4ng3r,https://github.com/rizinorg/rizin,aa6917772d2f32e5a7daab25a46c72df0b5ea406,Lua,48.0,31.0,17.0
+brammool,https://github.com/vim/vim,f50808ed135ab973296bca515ae4029b321afe47,Lua,44.0,39.0,5.0
+brammool,https://github.com/vim/vim,d88934406c5375d88f8f1b65331c9f0cab68cc6c,Lua,17.0,16.0,1.0
+brammool,https://github.com/vim/vim,4d97a565ae8be0d4debba04ebd2ac3e75a0c8010,Lua,34.0,27.0,7.0
+brammool,https://github.com/vim/vim,44a3f3353e0407e9fffee138125a6927d1c9e7e5,Lua,19.0,17.0,2.0
+brammool,https://github.com/vim/vim,d6211a52ab9f53b82f884561ed43d2fe4d24ff7d,Lua,22.0,19.0,3.0
+brammool,https://github.com/vim/vim,f7c7c3fad6d2135d558f3b36d0d1a943118aeb5e,Lua,15.0,14.0,1.0
+brammool,https://github.com/vim/vim,5e59ea54c0c37c2f84770f068d95280069828774,Lua,38.0,36.0,2.0
+brammool,https://github.com/vim/vim,c6fdb15d423df22e1776844811d082322475e48a,Lua,16.0,14.0,2.0
+neocotic,https://github.com/neocotic/convert-svg,2bbc498c5029238637206661dbac9e44d37d17c5,Lua,10.0,9.0,1.0
+Shinyzenith,https://github.com/waycrate/swhkd,b4e6dc76f4845ab03104187a42ac6d1bbc1e0021,Lua,55.0,34.0,21.0
+ilslv,https://github.com/graphql-rust/juniper,2b609ee057be950e3454b69fadc431d120e407bb,Lua,393.0,292.0,101.0
+tyranron,https://github.com/graphql-rust/juniper,8d28cdba6eb10f53490ba41d1b5cb40506c2de22,Lua,399.0,297.0,102.0
