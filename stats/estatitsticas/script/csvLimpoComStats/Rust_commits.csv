@@ -1,0 +1,23 @@
+username,repositorio,hash,linguagem_programacao,LinhasTotais,LinhasAdicionadas,LinhasRemovidas
+ctz,https://github.com/ctz/rustls,a93ee1abd2ab19ebe4bf9d684d56637ee54a6074,Rust,2.0,1.0,1.0
+kamadak,https://github.com/kamadak/exif-rs,f21df24616ea611c5d5d0e0e2f8042eb74d5ff48,Rust,13.0,13.0,0.0
+seanmonstar,https://github.com/hyperium/hyper,8f93123efef5c1361086688fe4f34c83c89cec02,Rust,12.0,12.0,0.0
+sorpaas,https://github.com/rust-blockchain/evm,19ade858c430ab13eb562764a870ac9f8506f8dd,Rust,4.0,4.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,744009c9e5cc5d0447f0dc39d055f917e1fd9e16,Rust,2.0,2.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,9c1dc920d8ffb4893d6c9d27d1f039607b326743,Rust,2.0,2.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,578e634b4f1c1c684d4b4294f9e5281b2133b3ed,Rust,3.0,3.0,0.0
+bgilbert,https://github.com/coreos/coreos-installer,2a36405339c87b16ed6c76e91ad5b76638fbdb0c,Rust,29.0,26.0,3.0
+librelois,https://github.com/paritytech/frontier,146bb48849e5393004be5c88beefe76fdf009aba,Rust,368.0,287.0,81.0
+pchickey,https://github.com/bytecodealliance/lucet,7c7757c772fb709c61b1442bcc1e1fbee97bf4a8,Rust,39.0,26.0,13.0
+autor nulo,https://github.com/occlum/occlum,36918e42bf6732c4d3996bc99eb013eb6b90b249,Rust,10.0,8.0,2.0
+notlesh,https://github.com/paritytech/frontier,8a93fdc6c9f4eb1d2f2a11b7ff1d12d70bf5a664,Rust,56.0,51.0,5.0
+alessandrod,https://github.com/solana-labs/rbpf,e61e045f8c244de978401d186dcfd50838817297,Rust,33.0,32.0,1.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,ef1d027be116f25e25bb94a60da491c2cf55bd0b,Rust,6.0,6.0,0.0
+BurntSushi,https://github.com/rust-lang/regex,ae70b41d4f46641dbc45c7a4f87954aea356283e,Rust,97.0,95.0,2.0
+cfallin,https://github.com/bytecodealliance/wasmtime,666c2554ea0e1728c35aa41178cf235920db888a,Rust,61.0,46.0,15.0
+Shinyzenith,https://github.com/waycrate/swhkd,0b620a09605afb815c6d8d8953bbb7a10a8c0575,Rust,2.0,1.0,1.0
+Shinyzenith,https://github.com/waycrate/swhkd,f70b99dd575fab79d8a942111a6980431f006818,Rust,16.0,7.0,9.0
+Aloso,https://github.com/rulex-rs/rulex,60aa2dc03a22d69c8800fec81f99c96958a11363,Rust,65.0,52.0,13.0
+sorpaas,https://github.com/paritytech/frontier,fed5e0a9577c10bea021721e8c2c5c378e16bf66,Rust,74.0,49.0,25.0
+vi,https://github.com/websockets-rs/rust-websocket,cbf6e9983e839d2ecad86de8cd1b3f20ed43390b,Rust,64.0,62.0,2.0
+sorpaas,https://github.com/paritytech/frontier,fff8cc43b7756ce3979a38fc473f38e6e24ac451,Rust,15.0,11.0,4.0

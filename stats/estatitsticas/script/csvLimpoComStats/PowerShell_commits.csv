@@ -1,0 +1,8 @@
+username,repositorio,hash,linguagem_programacao,LinhasTotais,LinhasAdicionadas,LinhasRemovidas
+porcelli,https://github.com/droolsjbpm/kie-wb-distributions,90eed433d36b21265fdf978252b8619766b8e74b,PowerShell,694.0,675.0,19.0
+mbeccati,https://github.com/revive-adserver/revive-adserver,e17a7ec3412ded751cda50b82338de471d656d74,PowerShell,8.0,4.0,4.0
+eldy,https://github.com/eldy/awstats,06c0ab29c1e5059d9e0279c6b64d573d619e1651,PowerShell,14.0,9.0,5.0
+eldy,https://github.com/eldy/awstats,cf219843a74c951bf5986f3a7fffa3dcf99c3899,PowerShell,19.0,14.0,5.0
+pakoito,https://github.com/arrow-kt/arrow,74198dab522393487d5344f194dc21208ab71ae8,PowerShell,8.0,4.0,4.0
+mwallner,https://github.com/chocolatey/boxstarter,67e320491813550b48900e87105a34ceefdcf633,PowerShell,125.0,116.0,9.0
+paulegradie,https://github.com/OctopusDeploy/OctopusDSC,24b448e6ac964ed938475add494a145c0473ac42,PowerShell,64.0,23.0,41.0

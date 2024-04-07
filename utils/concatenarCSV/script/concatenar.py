@@ -24,6 +24,6 @@ def combinar_csvs(diretorio, arquivo_saida):
 
     print(f'Arquivos CSV combinados com sucesso. O resultado foi salvo em {caminho_saida}.')
 
-diretorio_dados = '../../../stats/csv'
-arquivo_saida_combinado = 'linguagemSemDupHashStats.csv'
+diretorio_dados = '../../../stats/script/'
+arquivo_saida_combinado = 'limpoComStats.csv'
 combinar_csvs(diretorio_dados, arquivo_saida_combinado)

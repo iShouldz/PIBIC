@@ -2,7 +2,9 @@
 
 import pandas as pd
 
-df = pd.read_csv('../../csv/linguagemSemDupHashStatsLimpo.csv')
+# df = pd.read_csv('../../csv/linguagemSemDupHashStatsLimpo.csv')
+
+df = pd.read_csv('../../../stats/script/limpoComStats.csv')
 
 linguagens = df['linguagem_programacao'].unique()
 

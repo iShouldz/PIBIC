@@ -1,0 +1,47 @@
+username,repositorio,hash,linguagem_programacao,LinhasTotais,LinhasAdicionadas,LinhasRemovidas
+AndyA,https://github.com/AndyA/CGI--Simple,e4942b871a26c1317a175a91ebb7262eea59b380,Perl,20.0,15.0,5.0
+kraih,https://github.com/kraih/mojo,aa7c8da54b1ebd4ccb64aa66dede7b7cdb381c44,Perl,5.0,4.0,1.0
+adrianschroeter,https://github.com/openSUSE/open-build-service,23c8d21c75242999e29379e6ca8418a14c8725c6,Perl,1.0,1.0,0.0
+sunnavy,https://github.com/bestpractical/rt,2338cd19ed7a7f4c1e94f639ab2789d6586d01f3,Perl,5.0,4.0,1.0
+jcameron,https://github.com/webmin/webmin,46e3d3ad195dcdc1af1795c96b6e0dc778fb6881,Perl,12.0,6.0,6.0
+ctfliblime,https://github.com/liblime/LibLime-Koha,8ea6f7bc37d05a9ec25b5afbea011cf9de5f1e49,Perl,1.0,1.0,0.0
+jcameron,https://github.com/webmin/webmin,4cd7bad70e23e4e19be8ccf7b9f245445b2b3b80,Perl,5.0,5.0,0.0
+autor nulo,https://github.com/puppetlabs/puppetlabs-cinder,7da792fbd40c0e6eae1ee093aa00e0b177bd2ebc,Perl,5.0,4.0,1.0
+oetiker,https://github.com/oetiker/SmokePing,bad9f9c28f0939b269f90072aa4cf41f20f15563,Perl,5.0,3.0,2.0
+sitaramc,https://github.com/sitaramc/gitolite,3dad4f8e3214d6ab5f71823019a624fa48b055a3,Perl,2.0,1.0,1.0
+steveschnepp,https://github.com/munin-monitoring/munin,284d7402718d98fcf10cee565415939882abab99,Perl,3.0,3.0,0.0
+rjbs,https://github.com/rjbs/Email-Address,83f8306117115729ac9346523762c0c396251eb5,Perl,2.0,1.0,1.0
+autor nulo,https://github.com/torvalds/linux,8d7f6690cedb83456edd41c9bd583783f0703bf0,Perl,7.0,5.0,2.0
+mlschroe,https://github.com/openSUSE/open-build-service,474a3db19498765f0118ba3dbc0b1cc90b0097fc,Perl,24.0,21.0,3.0
+audreyt,https://github.com/audreyt/module-signature,8a9164596fa5952d4fbcde5aa1c7d1c7bc85372f,Perl,51.0,34.0,17.0
+audreyt,https://github.com/audreyt/module-signature,c41e8885b862b9fce2719449bc9336f0bea658ef,Perl,2.0,2.0,0.0
+autor nulo,https://github.com/lxc/lxc,e986ea3dfa4a2957f71ae9bfaed406dd6e1ffff6,Perl,27.0,27.0,0.0
+geraldcombs,https://github.com/wireshark/wireshark,b4d16b4495b732888e12baf5b8a7e9bf2665e22b,Perl,5.0,3.0,2.0
+Juerd,https://github.com/irssi/scripts.irssi.org,f1b1eb154baa684fad5d65bf4dff79c8ded8b65a,Perl,42.0,28.0,14.0
+jcameron,https://github.com/webmin/webmin,0c58892732ee7610a7abba5507614366d382c9c9,Perl,9.0,5.0,4.0
+jcameron,https://github.com/webmin/webmin,a9c97eea6c268fb83d93a817d58bac75e0d2599e,Perl,5.0,3.0,2.0
+mgruner,https://github.com/OTRS/otrs,36e3be99cfe8a9e09afa1b75fdc39f3e28f561fc,Perl,4.0,2.0,2.0
+jcameron,https://github.com/webmin/webmin,475cc4fbdf51c865b291d252d81a58bad05de0c7,Perl,40.0,26.0,14.0
+mlschroe,https://github.com/openSUSE/open-build-service,ba27c91351878bc297ec4baba0bd488a2f3b568d,Perl,19.0,15.0,4.0
+dgl,https://github.com/dgl/cgiirc,46dd48442204207b52c16065ad67d294194afd8d,Perl,1.0,1.0,0.0
+jcameron,https://github.com/webmin/webmin,a330e913ee099cb9c586ce1b9267647fc566c1ab,Perl,18.0,12.0,6.0
+jcameron,https://github.com/webmin/webmin,c2d4a90639afb2403979aa91ba75cb332ae16d1b,Perl,13.0,8.0,5.0
+sullo,https://github.com/sullo/nikto,e759b3300aace5314fe3d30800c8bd83c81c29f7,Perl,43.0,26.0,17.0
+mgruner,https://github.com/OTRS/otrs,09e80c7752b0d9080688e4597c7495dd109e0963,Perl,130.0,129.0,1.0
+sitaramc,https://github.com/sitaramc/gitolite,dc13dfca8fdae5634bb0865f7e9822d2a268ed59,Perl,27.0,25.0,2.0
+sitaramc,https://github.com/sitaramc/gitolite,5df2b817255ee919991da6c310239e08c8fcc1ae,Perl,18.0,6.0,12.0
+autor nulo,https://github.com/dotse/zonemaster-gui,568e8db44930fda4563c1e708a2440909fd8e5fe,Perl,2.0,1.0,1.0
+autor nulo,https://github.com/DCIT/perl-Crypt-JWT,b98a59b42ded9f9e51b2560410106207c2152d6c,Perl,121.0,90.0,31.0
+jcameron,https://github.com/webmin/webmin,df8a43fb4bdc9c858874f72773bcba597ae9432c,Perl,2.0,1.0,1.0
+jhthorsen,https://github.com/Nordaaker/convos,54d1763ac65c05aad27ad454b4e5a62ba8352d39,Perl,81.0,50.0,31.0
+jcameron,https://github.com/webmin/webmin,1163f3a7f418f249af64890f4636575e687e9de7,Perl,8.0,5.0,3.0
+error ao obter,https://bitbucket.org/csalgadow/demokratian_votaciones,b56c48b519fc52efa65404c312ea9bbde320e3fa,Perl,,,
+mikaku,https://github.com/mikaku/Monitorix,d6816e20da1a98bcdc6372d9c36a093df5238f4a,Perl,4.0,4.0,0.0
+rjbs,https://github.com/Perl/perl5,c1a937fef07c061600a0078f4cb53fe9c2136bb9,Perl,7.0,4.0,3.0
+sunnavy,https://github.com/bestpractical/rt,70749bb66cb13dd70bd53340c371038a5f3ca57c,Perl,9.0,9.0,0.0
+iliajie,https://github.com/webmin/webmin,39ea464f0c40b325decd6a5bfb7833fa4a142e38,Perl,3.0,2.0,1.0
+jcameron,https://github.com/webmin/webmin,eeeea3c097f5cc473770119f7ac61f1dcfa671b9,Perl,1.0,1.0,0.0
+liske,https://github.com/liske/needrestart,e6e58136e1e3c92296e2e810cb8372a5fe0dbd30,Perl,6.0,3.0,3.0
+vanHoesel,https://github.com/libwww-perl/HTTP-Daemon,8dc5269d59e2d5d9eb1647d82c449ccd880f7fd0,Perl,10.0,6.0,4.0
+vanHoesel,https://github.com/libwww-perl/HTTP-Daemon,e84475de51d6fd7b29354a997413472a99db70b2,Perl,26.0,26.0,0.0
+jcameron,https://github.com/webmin/webmin,13f7bf9621a82d93f1e9dbd838d1e22020221bde,Perl,4.0,2.0,2.0

@@ -1,0 +1,15 @@
+username,repositorio,hash,linguagem_programacao,LinhasTotais,LinhasAdicionadas,LinhasRemovidas
+smagnani,https://github.com/torvalds/linux,baff42ab1494528907bf4d5870359e31711746ae,Swift,1.0,1.0,0.0
+gganis,https://github.com/root-project/root,88ccff152604e0f1012653a596d802ff7ede3145,Swift,267.0,172.0,95.0
+tracywwnj,https://github.com/torvalds/linux,499350a5a6e7512d9ed369ed63a4244b6536f4f8,Swift,4.0,4.0,0.0
+daltoniam,https://github.com/daltoniam/Starscream,dbeb1190b8dcbff4f0b797f9e9d9b9b864d1f0d6,Swift,32.0,18.0,14.0
+autor nulo,https://github.com/torvalds/linux,ccf7abb93af09ad0868ae9033d1ca8108bdaec82,Swift,6.0,6.0,0.0
+kylebrowning,https://github.com/kylebrowning/APNSwift,97fa7f69dcdd89168fff84e0ba8f999881ee3d3f,Swift,11.0,4.0,7.0
+David-Henner,https://github.com/wireapp/wire-ios,7e3c30120066c9b10e50cc0d20012d0849c33a40,Swift,136.0,130.0,6.0
+0xTim,https://github.com/vapor/vapor,e3aa712508db2854ac0ab905696c65fd88fa7e23,Swift,363.0,349.0,14.0
+typfel,https://github.com/wireapp/wire-ios-data-model,bf9db85886b12a20c8374f55b7c4a610e8ae9220,Swift,43.0,32.0,11.0
+typfel,https://github.com/wireapp/wire-ios-data-model,35af3f632085f51a2ce7f608fdaeffd1a69ad89f,Swift,27.0,24.0,3.0
+hieucao,https://github.com/NiklasMerz/cordova-plugin-fingerprint-aio,27434a240f97f69fd930088654590c8ba43569df,Swift,9.0,6.0,3.0
+0xTim,https://github.com/vapor/vapor,953a349b539b3e0d3653585c8ffb50c427986df1,Swift,85.0,82.0,3.0
+johnxnguyen,https://github.com/wireapp/wire-ios,caa0e27dbe51f9edfda8c7a9f017d93b8cfddefb,Swift,8.0,3.0,5.0
+0xTim,https://github.com/vapor/vapor,6c63226a4ab82ce53730eb1afb9ca63866fcf033,Swift,24.0,20.0,4.0

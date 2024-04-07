@@ -1,0 +1,16 @@
+username,repositorio,hash,linguagem_programacao,LinhasTotais,LinhasAdicionadas,LinhasRemovidas
+gashcrumb,https://github.com/jboss-fuse/fuse,e280cb370323eeb759030919d5111ed809e8ded5,CoffeeScript,10.0,5.0,5.0
+nealpoole,https://github.com/github/hubot-scripts,feee5abdb038a229a98969ae443cdb8a61747782,CoffeeScript,10.0,6.0,4.0
+Eugeny,https://github.com/Eugeny/ajenti,3270fd1d78391bb847b4c9ce37cf921f485b1310,CoffeeScript,13.0,9.0,4.0
+greghaynes,https://github.com/openstack-infra/puppet-gerrit,8573c2ee172f66c1667de49685c88fdc8883ca8b,CoffeeScript,2.0,0.0,2.0
+bboreham,https://github.com/weaveworks/weave,a0ac81b3b4cae6d0dcaf3732fd91cedefc89f720,CoffeeScript,10.0,5.0,5.0
+piranna,https://github.com/piranna/linux-cmdline,53c61a88bc47eb25d71832205056beaab95cf677,CoffeeScript,49.0,37.0,12.0
+mafintosh,https://github.com/mafintosh/dns-packet,25f15dd0fedc53688b25fd053ebbdffe3d5c1c56,CoffeeScript,2.0,1.0,1.0
+dummdidumm,https://github.com/sveltejs/language-tools,5d7bf1fd98bfe2cd2080863a3c95ce099b898075,CoffeeScript,6.0,4.0,2.0
+rs,https://github.com/rs/node-netmask,3f19a056c4eb808ea4a29f234274c67bc5a848f4,CoffeeScript,67.0,50.0,17.0
+LaurentTreguier,https://github.com/LaurentTreguier/vscode-rpm-spec,e19fb8e29cb48cadfd3238371e060d4ffd3384f9,CoffeeScript,6.0,4.0,2.0
+nvoxland,https://github.com/liquibase/liquibase,33d9d925082097fb1a3d2fc8e44423d964cd9381,CoffeeScript,6.0,3.0,3.0
+polonel,https://github.com/polonel/trudesk,c4b262c2613d4a8865de0b3252112544bd81997a,CoffeeScript,4.0,1.0,3.0
+polonel,https://github.com/polonel/trudesk,ae904d37eaa38bffebfbfe8e949c0385c63e3263,CoffeeScript,9.0,9.0,0.0
+surli,https://github.com/xwiki/xwiki-platform,053d957d53f2a543d158f3ab651e390d2728e0b9,CoffeeScript,2.0,1.0,1.0
+NGPixel,https://github.com/Requarks/wiki,411802ec2f654bb5ed1126c307575b81e2361c6b,CoffeeScript,12.0,10.0,2.0

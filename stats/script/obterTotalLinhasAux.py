@@ -5,7 +5,7 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
-token = os.getenv('TOKEN02')
+token = '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'
 
 def getLinhasTotais(repository_url, commit_hash):
     user, repo = repository_url.split('/')[-2:]
@@ -34,7 +34,7 @@ def processar_csv(input_csv, output_csv):
     df[['LinhasTotais', 'LinhasAdicionadas', 'LinhasRemovidas']] = df.apply(lambda row: pd.Series(getLinhasTotais(row['repositorio'], row['hash'])), axis=1)
     df.to_csv(output_csv, index=False)
 
-input_csv_path = '../../utils/split/csv/_2.csv'
+input_csv_path = '../../utils/split/csv/CommitsUnicos.csv_2.csv'
 output_csv_path = '../csv/statsPt2.csv'
 
 processar_csv(input_csv_path, output_csv_path)

@@ -1,0 +1,541 @@
+username,repositorio,hash,linguagem_programacao,LinhasTotais,LinhasAdicionadas,LinhasRemovidas
+autor nulo,https://github.com/KDE/kde1-kdebase,04906bd5de2f220bf100b605dad37b4a1d9a91a6,C++,1.0,1.0,0.0
+lalinsky,https://github.com/taglib/taglib,77d61c6eca4d08b9b025738acf6b926cc750db23,C++,2.0,1.0,1.0
+franklai,https://github.com/taglib/taglib,b3646a07348ffa276ea41a9dae03ddc63ea6c532,C++,16.0,13.0,3.0
+lalinsky,https://github.com/taglib/taglib,dcdf4fd954e3213c355746fa15b7480461972308,C++,2.0,1.0,1.0
+sipa,https://github.com/sipa/bitcoin,a206b0ea12eb4606b93323268fc81a4f1f952531,C++,26.0,24.0,2.0
+keithw,https://github.com/keithw/mosh,9791768705528e911bfca6c4d8aa88139035060e,C++,8.0,8.0,0.0
+Adam-,https://github.com/inspircd/inspircd,ed28c1ba666b39581adb860bf51cdde43c84cc89,C++,2.0,1.0,1.0
+alextutubalin,https://github.com/LibRaw/LibRaw,19ffddb0fe1a4ffdb459b797ffcf7f490d28b5a6,C++,10.0,8.0,2.0
+alextutubalin,https://github.com/LibRaw/LibRaw,2f912f5b33582961b1cdbd9fd828589f8b78f21d,C++,20.0,12.0,8.0
+DarthGandalf,https://github.com/znc/znc,2bd410ee5570cea127233f1133ea22f25174eb28,C++,8.0,4.0,4.0
+maekitalo,https://github.com/maekitalo/tntnet,9bd3b14042e12d84f39ea9f55731705ba516f525,C++,4.0,4.0,0.0
+autor nulo,https://github.com/facebook/hhvm,851fff90a9b7461df2393af32239ba217bc25946,C++,9.0,9.0,0.0
+jeromerobert,https://bitbucket.org/jeromerobert/k4dirstat,1ad2e96d73fa06cd9be0f3749b337c03575016aa,C++,9.0,4.0,5.0
+jktjkt,https://github.com/jktjkt/trojita,25fffa3e25cbad85bbca804193ad336b090a9ce1,C++,25.0,25.0,0.0
+s4y,https://github.com/okws/okws,e9bedb644d106a043e33e1058bedd1c2c0b2e2e0,C++,7.0,4.0,3.0
+anadav,https://github.com/torvalds/linux,234f3ce485d54017f15cf5e0699cff4100121601,C++,78.0,54.0,24.0
+anadav,https://github.com/torvalds/linux,d1442d85cc30ea75f7d399474ca738e0bc96f715,C++,118.0,88.0,30.0
+agralius,https://github.com/mongodb/mongo,c151e0660b9736fe66b224f1129a16871165251b,C++,12.0,8.0,4.0
+sgolemon,https://github.com/facebook/hhvm,ab6fdeb84fb090b48606b6f7933028cfe7bf3a5e,C++,4.0,3.0,1.0
+oyamauchi,https://github.com/facebook/hhvm,7135ec229882370a00411aa50030eada6034cc1b,C++,7.0,6.0,1.0
+anadav,https://github.com/torvalds/linux,3f6f1480d86bf9fc16c160d803ab1d006e3058d5,C++,7.0,4.0,3.0
+bonzini,https://github.com/torvalds/linux,a430c9166312e1aa3d80bce32374233bdbfeba32,C++,2.0,1.0,1.0
+Sput42,https://github.com/quassel/quassel,8b5ecd226f9208af3074b33d3b7cf5e14f55b138,C++,11.0,10.0,1.0
+arvidn,https://github.com/bittorrent/bootstrap-dht,bbc0b7191e3f48461ca6e5b1b34bdf4b3f1e79a9,C++,219.0,175.0,44.0
+anadav,https://github.com/torvalds/linux,f3747379accba8e95d70cec0eae0582c8c182050,C++,27.0,8.0,19.0
+khaledhosny,https://github.com/khaledhosny/ots,003c62d28ae438aa8943cb31535563397f838a2c,C++,30.0,15.0,15.0
+davidedmundson,https://github.com/sddm/sddm,4cfed6b0a625593fb43876f04badc4dd99799d86,C++,4.0,4.0,0.0
+autor nulo,https://github.com/openssl/openssl,4924b37ee01f71ae19c94a8934b80eeb2f677932,C++,15.0,10.0,5.0
+noloader,https://github.com/weidai11/cryptopp,9425e16437439e68c7d96abef922167d68fafaff,C++,8.0,7.0,1.0
+kentonv,https://github.com/capnproto/capnproto,f343f0dbd0a2e87f17cd74f14186ed73e3fbdbfa,C++,7.0,4.0,3.0
+kentonv,https://github.com/capnproto/capnproto,26bcceda72372211063d62aab7e45665faa83633,C++,10.0,8.0,2.0
+kentonv,https://github.com/capnproto/capnproto,80149744bdafa3ad4eedc83f8ab675e27baee868,C++,63.0,38.0,25.0
+mamarley,https://github.com/quassel/quassel,b5e38970ffd55e2dd9f706ce75af9a8d7730b1b8,C++,195.0,124.0,71.0
+autor nulo,https://github.com/YanVugenfirer/kvm-guest-drivers-windows,fbfa4d1083ea84c5429992ca3e996d7d4fbc8238,C++,60.0,48.0,12.0
+abrander,https://github.com/rawstudio/rawstudio,983bda1f0fa5fa86884381208274198a620f006e,C++,3.0,2.0,1.0
+autor nulo,https://github.com/bittorrent/bootstrap-dht,e809ea80e3527e32c40756eddd8b2ae44bc3af1a,C++,10.0,8.0,2.0
+attilamolnar,https://github.com/inspircd/inspircd,6058483d9fbc1b904d5ae7cfea47bfcde5c5b559,C++,8.0,8.0,0.0
+behdad,https://github.com/behdad/harfbuzz,f96664974774bfeb237a7274f512f64aaafb201e,C++,4.0,3.0,1.0
+autor nulo,https://github.com/ImageMagick/ImageMagick,cc2a4d2ba5371d25c58763e4db2dbc1f4691c0f7,C++,8.0,4.0,4.0
+swtaarrs,https://github.com/facebook/hhvm,423b4b719afd5ef4e6e19d8447fbf7b6bc0d0a25,C++,4.0,4.0,0.0
+autor nulo,https://github.com/mm2/Little-CMS,5ca71a7bc18b6897ab21d815d15e218e204581e2,C++,1.0,1.0,0.0
+CendioOssman,https://github.com/TigerVNC/tigervnc,8aa4bc53206c2430bbf0c8f4b642f59a379ee649,C++,43.0,10.0,33.0
+mdadams,https://github.com/mdadams/jasper,988f8365f7d8ad8073b6786e433d34c553ecf568,C++,31.0,22.0,9.0
+rouault,https://github.com/uclouvain/openjpeg,d27ccf01c68a31ad62b33d2dc1ba2bb1eeaafe7b,C++,33.0,33.0,0.0
+autor nulo,https://github.com/uWebSockets/uWebSockets,37deefd01f0875e133ea967122e3a5e421b8fcd9,C++,15.0,13.0,2.0
+leizleiz,https://github.com/googlei18n/sfntly,c56b85408bab232efd7e650f0994272a174e3b92,C++,2.0,2.0,0.0
+behdad,https://github.com/behdad/harfbuzz,63ef0b41dc48d6112d1918c1b1de9de8ea90adb5,C++,2.0,1.0,1.0
+fragglet,https://github.com/fragglet/lhasa,6fcdb8f1f538b9d63e63a5fa199c5514a15d4564,C++,7.0,6.0,1.0
+guyharris,https://github.com/wireshark/wireshark,a66628e425db725df1ac52a3c573a03357060ddd,C++,12.0,8.0,4.0
+guyharris,https://github.com/wireshark/wireshark,f5ec0afb766f19519ea9623152cca3bbe2229500,C++,75.0,29.0,46.0
+letoams,https://github.com/libreswan/libreswan,152d6d95632d8b9477c170f1de99bcd86d7fb1d6,C++,8.0,4.0,4.0
+rgacogne,https://github.com/PowerDNS/pdns,881b5b03a590198d03008e4200dd00cc537712f3,C++,84.0,58.0,26.0
+Adam-,https://github.com/inspircd/inspircd,74fafb7f11b06747f69f182ad5e3769b665eea7a,C++,4.0,4.0,0.0
+vslavik,https://github.com/vslavik/winsparkle,bb454857348245a7397f9e4fbb3a902f4ac25913,C++,32.0,27.0,5.0
+autor nulo,https://github.com/torvalds/linux,d9092f52d7e61dd1557f2db2400ddb430e85937e,C++,2.0,1.0,1.0
+mdadams,https://github.com/mdadams/jasper,5d66894d2313e3f3469f19066e149e08ff076698,C++,66.0,49.0,17.0
+rkrcmar,https://github.com/torvalds/linux,2117d5398c81554fbf803f5fd1dc55eb78216c0c,C++,36.0,11.0,25.0
+ImpulseAdventure,https://github.com/ImpulseAdventure/JPEGsnoop,b4e458612d4294e0cfe01dbf1c0b09a07a8133a4,C++,6.0,3.0,3.0
+0xxon,https://github.com/bro/bro,6c0f101a62489b1c5927b4ed63b0e1d37db40282,C++,10.0,10.0,0.0
+autor nulo,https://github.com/ImageMagick/ImageMagick,a33f7498f9052b50e8fe8c8422a11ba84474cb42,C++,2.0,1.0,1.0
+sbooth,https://github.com/taglib/taglib,cb9f07d9dcd791b63e622da43f7b232adaec0a9a,C++,5.0,3.0,2.0
+Minoru,https://github.com/akrennmair/newsbeuter,96e9506ae9e252c548665152d1b8968297128307,C++,8.0,4.0,4.0
+rouault,https://github.com/uclouvain/openjpeg,baf0c1ad4572daa89caa3b12985bdd93530f0dd7,C++,4.0,4.0,0.0
+rouault,https://github.com/uclouvain/openjpeg,2cd30c2b06ce332dede81cccad8b334cde997281,C++,39.0,27.0,12.0
+rouault,https://github.com/uclouvain/openjpeg,e5285319229a5d77bf316bb0d3a6cbd3cb8666d9,C++,2.0,1.0,1.0
+Minoru,https://github.com/akrennmair/newsbeuter,c8fea2f60c18ed30bdd1bb6f798e994e51a58260,C++,8.0,4.0,4.0
+barbibulle,https://github.com/axiomatic-systems/Bento4,be7185faf7f52674028977dcf501c6039ff03aa5,C++,8.0,6.0,2.0
+barbibulle,https://github.com/axiomatic-systems/Bento4,03d1222ab9c2ce779cdf01bdb96cdd69cbdcfeda,C++,6.0,3.0,3.0
+barbibulle,https://github.com/axiomatic-systems/Bento4,2f267f89f957088197f4b1fc254632d1645b415d,C++,6.0,4.0,2.0
+barbibulle,https://github.com/axiomatic-systems/Bento4,41cad602709436628f07b4c4f64e9ff7a611f687,C++,6.0,4.0,2.0
+barbibulle,https://github.com/axiomatic-systems/Bento4,22192de5367fa0cee985917f092be4060b7c00b0,C++,5.0,3.0,2.0
+barbibulle,https://github.com/axiomatic-systems/Bento4,5eb8cf89d724ccb0b4ce5f24171ec7c11f0a7647,C++,9.0,8.0,1.0
+barbibulle,https://github.com/axiomatic-systems/Bento4,53499d8d4c69142137c7c7f0097a444783fdeb90,C++,29.0,21.0,8.0
+autor nulo,https://github.com/ImageMagick/ImageMagick,9fd10cf630832b36a588c1545d8736539b2f1fb5,C++,2.0,2.0,0.0
+sjaakola,https://github.com/MariaDB/server,0b5a5258abbeaf8a0c3a18c7e753699787fdf46e,C++,30.0,22.0,8.0
+autor nulo,https://github.com/phusion/passenger,4043718264095cde6623c2cbe8c644541036d7bf,C++,3.0,2.0,1.0
+adamemerson,https://github.com/ceph/ceph,b3118cabb8060a8cc6a01c4e8264cb18e7b1745a,C++,17.0,9.0,8.0
+alextutubalin,https://github.com/LibRaw/LibRaw,f1394822a0152ceed77815eafa5cac4e8baab10a,C++,27.0,22.0,5.0
+alextutubalin,https://github.com/LibRaw/LibRaw,5563e6ddc3f7cb93d98b491194ceebdee7288d36,C++,64.0,62.0,2.0
+dlemstra,https://github.com/ImageMagick/ImageMagick,8c35502217c1879cb8257c617007282eee3fe1cc,C++,1.0,1.0,0.0
+jberkenbilt,https://github.com/qpdf/qpdf,dea704f0ab7f625e1e7b3f9a1110b45b63157317,C++,24.0,10.0,14.0
+bonzini,https://github.com/torvalds/linux,33ab91103b3415e12457e3104f0e4517ce12d0f3,C++,48.0,38.0,10.0
+stevenrutherford,https://github.com/torvalds/linux,129a72a0d3c8e139a04512325384fe5ac119e74d,C++,22.0,18.0,4.0
+cstim,https://github.com/libofx/libofx,a70934eea95c76a7737b83773bffe8738935082d,C++,15.0,11.0,4.0
+nikias,https://github.com/libimobiledevice/libplist,3a55ddd3c4c11ce75a86afbefd085d8d397ff957,C++,68.0,27.0,41.0
+lucaderi,https://github.com/ntop/ntopng,f91fbe3d94c8346884271838ae3406ae633f6f15,C++,16.0,13.0,3.0
+jmckenna,https://github.com/mapserver/mapserver,e52a436c0e1c5e9f7ef13428dba83194a800f4df,C++,4.0,4.0,0.0
+michalsrb,https://github.com/TigerVNC/tigervnc,18c020124ff1b2441f714da2017f63dba50720ba,C++,19.0,15.0,4.0
+kentonv,https://github.com/sandstorm-io/sandstorm,4ea8df7403381d9b657b121b3c98d8081b27414d,C++,27.0,14.0,13.0
+kentonv,https://github.com/sandstorm-io/sandstorm,6e8572ea8bb56d0216bb1b410e5040edc051b120,C++,26.0,13.0,13.0
+Chocobo1,https://github.com/qbittorrent/qBittorrent,6ca3e4f094da0a0017cb2d483ec1db6176bb0b16,C++,29.0,21.0,8.0
+ngosang,https://github.com/qbittorrent/qBittorrent,f5ad04766f4abaa78374ff03704316f8ce04627d,C++,7.0,6.0,1.0
+Yeraze,https://github.com/Yeraze/ytnef,f98f5d4adc1c4bd4033638f6167c1bb95d642f89,C++,2.0,1.0,1.0
+antlarr,https://github.com/antlarr/audiofile,c48e4c6503f7dabd41f11d4c9c7b7f8960e7f2c0,C++,6.0,6.0,0.0
+antlarr,https://github.com/antlarr/audiofile,beacc44eb8cdf6d58717ec1a5103c5141f1b37f9,C++,52.0,46.0,6.0
+MAN-AT-ARMS,https://github.com/iortcw/iortcw,11a83410153756ae350a82ed41b08d128ff7f998,C++,24.0,24.0,0.0
+MAN-AT-ARMS,https://github.com/iortcw/iortcw,b248763e4878ef12d5835ece6600be8334f67da1,C++,16.0,14.0,2.0
+SmileTheory,https://github.com/ioquake/ioq3,f61fe5f6a0419ef4a88d46a128052f2e8352e85d,C++,8.0,7.0,1.0
+simonemainardi,https://github.com/ntop/ntopng,01f47e04fd7c8d54399c9e465f823f0017069f8f,C++,5.0,4.0,1.0
+autor nulo,https://github.com/LibreOffice/core,28e61b634353110445e334ccaa415d7fb6629d62,C++,2.0,1.0,1.0
+autor nulo,https://github.com/LibreOffice/core,62a97e6a561ce65e88d4c537a1b82c336f012722,C++,15.0,10.0,5.0
+autor nulo,https://github.com/LibreOffice/core,65dcd1d8195069c8c8acb3a188b8e5616c51029c,C++,2.0,2.0,0.0
+autor nulo,https://github.com/LibreOffice/core,6e6e54f944a5ebb49e9110bdeff844d00a96c56c,C++,7.0,4.0,3.0
+danielrh,https://github.com/dropbox/lepton,82167c144a322cc956da45407f6dce8d4303d346,C++,38.0,24.0,14.0
+dlemstra,https://github.com/ImageMagick/ImageMagick,0c5b1e430a83ef793a7334bbbee408cf3c628699,C++,14.0,8.0,6.0
+dtardon,https://github.com/fosnola/libstaroffice,2d6253c7a692a3d92785dd990fce7256ea05e794,C++,2.0,1.0,1.0
+noloader,https://github.com/weidai11/cryptopp,07dbcc3d9644b18e05c1776db2a57fe04d780965,C++,18.0,14.0,4.0
+autor nulo,https://github.com/nothings/stb,244d83bc3d859293f55812d48b3db168e581f6ab,C++,23.0,18.0,5.0
+vitaut,https://github.com/fmtlib/fmt,8cf30aa2be256eba07bb1cefb998c52326e846e7,C++,10.0,7.0,3.0
+jumde,https://github.com/brave/muon,c18663aa171c6cdf03da3e8c70df8663645b97c4,C++,12.0,7.0,5.0
+sagamusix,https://github.com/OpenMPT/openmpt,7ebf02af2e90f03e0dbd0e18b8b3164f372fb97c,C++,3.0,2.0,1.0
+mikedld,https://github.com/transmission/transmission,2123adf8e5e1c2b48791f9d22fc8c747e974180e,C++,22.0,14.0,8.0
+lavv17,https://github.com/lavv17/lftp,a27e07d90a4608ceaf928b1babb27d4d803e1992,C++,24.0,9.0,15.0
+liewegas,https://github.com/ceph/ceph,8f396cf35a3826044b089141667a196454c0a587,C++,110.0,78.0,32.0
+gfwilliams,https://github.com/espruino/Espruino,bed844f109b6c222816740555068de2e101e8018,C++,27.0,14.0,13.0
+gfwilliams,https://github.com/espruino/Espruino,ce1924193862d58cb43d3d4d9dada710a8361b89,C++,2.0,1.0,1.0
+radare,https://github.com/radare/radare2,224e6bc13fa353dd3b7f7a2334588f1c4229e58d,C++,6.0,3.0,3.0
+lucaderi,https://github.com/ntop/ntopng,30610bda60cbfc058f90a1c0a17d0e8f4516221a,C++,5.0,5.0,0.0
+sgodin,https://github.com/resiprocate/resiprocate,2cb291191c93c7c4e371e22cb89805a5b31d6608,C++,40.0,35.0,5.0
+madjam,https://github.com/dmlc/ps-lite,4be817e8b03e7e92517e91f2dfcc50865e91c6ea,C++,3.0,2.0,1.0
+radare,https://github.com/radareorg/radare2,e9ce0d64faf19fa4e9c260250fbdf25e3c11e152,C++,21.0,12.0,9.0
+DarthGandalf,https://github.com/znc/znc,a7bfbd93812950b7444841431e8e297e62cb524e,C++,13.0,10.0,3.0
+DarthGandalf,https://github.com/znc/znc,d22fef8620cdd87490754f607e7153979731c69d,C++,6.0,4.0,2.0
+DarthGandalf,https://github.com/znc/znc,a4a5aeeb17d32937d8c7d743dae9a4cc755ce773,C++,8.0,5.0,3.0
+Vogtinator,https://github.com/sddm/sddm,147cec383892d143b5e02daa70f1e7def50f5d98,C++,6.0,3.0,3.0
+jeriko-one,https://github.com/neomutt/neomutt,9e927affe3a021175f354af5fa01d22657c20585,C++,2.0,2.0,0.0
+GXhua,https://github.com/swoole/swoole-src,4cdbce5d9bf2fe596bb6acd7d6611f9e8c253a76,C++,164.0,87.0,77.0
+autor nulo,https://github.com/ImageMagick/ImageMagick,16916c8979c32765c542e216b31cee2671b7afe7,C++,2.0,2.0,0.0
+AndrewScheidecker,https://github.com/WAVM/WAVM,2de6cf70c5ef31e22ed119a25ac2daeefd3d18a1,C++,2.0,1.0,1.0
+AndrewScheidecker,https://github.com/WAVM/WAVM,31d670b6489e6d708c3b04b911cdf14ac43d846d,C++,18.0,10.0,8.0
+xzyfer,https://github.com/sass/libsass,210fdff7a65370c2ae24e022a2b35da8c423cc5f,C++,4.0,0.0,4.0
+dbry,https://github.com/dbry/WavPack,070ef6f138956d9ea9612e69586152339dbefe51,C++,5.0,5.0,0.0
+radare,https://github.com/radare/radare2,66191f780863ea8c66ace4040d0d04a8842e8432,C++,13.0,9.0,4.0
+radare,https://github.com/radare/radare2,f17bfd9f1da05f30f23a4dd05e9d2363e1406948,C++,4.0,2.0,2.0
+radare,https://github.com/radare/radare2,9b46d38dd3c4de6048a488b655c7319f845af185,C++,11.0,7.0,4.0
+radare,https://github.com/radare/radare2,df167c7db545953bb7f71c72e98e7a3ca0c793bf,C++,4.0,4.0,0.0
+danielrh,https://github.com/dropbox/lepton,6a5ceefac1162783fffd9506a3de39c85c725761,C++,2.0,1.0,1.0
+LebedevRI,https://github.com/darktable-org/rawspeed,dbe7591e54bad5e6430d38be6bed051582da76b9,C++,2.0,2.0,0.0
+alextutubalin,https://github.com/LibRaw/LibRaw,e47384546b43d0fd536e933249047bc397a4d88b,C++,14.0,14.0,0.0
+fredemmott,https://github.com/facebook/folly,8e927ee48b114c8a2f90d0cbd5ac753795a6761f,C++,42.0,40.0,2.0
+jano,https://github.com/facebook/hhvm,4bff3bfbe90d10451e4638c2118d1ad1117bb3e3,C++,13.0,7.0,6.0
+knekritz,https://github.com/facebook/proxygen,0600ebe59c3e82cd012def77ca9ca1918da74a71,C++,8.0,8.0,0.0
+jalopezsilva,https://github.com/facebook/proxygen,52cf331743ebd74194d6343a6c2ec52bb917c982,C++,42.0,34.0,8.0
+afrind,https://github.com/facebook/proxygen,223e0aa6bc7590e86af1e917185a2e0efe160711,C++,71.0,70.0,1.0
+unbit,https://github.com/unbit/uwsgi,cb4636f7c0af2e97a4eef7a3cdcbd85a71247bfe,C++,11.0,8.0,3.0
+akallabeth,https://github.com/FreeRDP/FreeRDP,17c363a5162fd4dc77b1df54e48d7bd9bf6b3be7,C++,25.0,23.0,2.0
+akallabeth,https://github.com/FreeRDP/FreeRDP,602f4a2e14b41703b5f431de3154cd46a5750a2d,C++,100.0,61.0,39.0
+idrassi,https://github.com/veracrypt/VeraCrypt,f30f9339c9a0b9bbcc6f5ad38804af39db1f479e,C++,131.0,82.0,49.0
+dbry,https://github.com/dbry/WavPack,33a0025d1d63ccd05d9dbaa6923d52b1446a62fe,C++,1.0,1.0,0.0
+gizmocuz,https://github.com/domoticz/domoticz,ee70db46f81afa582c96b887b73bcd2a86feda00,C++,2.0,1.0,1.0
+gizmocuz,https://github.com/domoticz/domoticz,2119afbe74ee0c914c1d5c4c859c594c08b0ad42,C++,2.0,2.0,0.0
+fancycode,https://github.com/strukturag/libheif,995a4283d8ed2d0d2c1ceb1a577b993df2f0e014,C++,5.0,5.0,0.0
+sharma95,https://github.com/facebook/proxygen,2f07985bef9fbae124cc63e5c0272e32da4fdaec,C++,35.0,13.0,22.0
+siyengar,https://github.com/facebookincubator/fizz,3eaddb33619eaaf74a760872850c550ad8f5c52f,C++,28.0,26.0,2.0
+siyengar,https://github.com/facebookincubator/fizz,6bf67137ef1ee5cd70c842b014c322b7deaf994b,C++,4.0,2.0,2.0
+knekritz,https://github.com/facebook/folly,c321eb588909646c15aefde035fd3133ba32cdee,C++,120.0,112.0,8.0
+autor nulo,https://github.com/facebook/mcrouter,97e033b3bb0cb16b61bf49f0dc7f311a3e0edd1b,C++,24.0,13.0,11.0
+autor nulo,https://github.com/facebook/proxygen,f43b134cc5c19d8532e7fb670a1c02e85f7a8d4f,C++,149.0,129.0,20.0
+DarthGandalf,https://github.com/znc/znc,8de9e376ce531fe7f3c8b0aa4876d15b479b7311,C++,39.0,30.0,9.0
+hlef,https://github.com/uclouvain/openjpeg,8ee335227bbcaf1614124046aa25e53d67b11ec3,C++,12.0,10.0,2.0
+autor nulo,https://github.com/nothings/stb,98fdfc6df88b1e34a736d5e126e6c8139c8de1a6,C++,28.0,22.0,6.0
+zccrs,https://github.com/linuxdeepin/deepin-clone,e079f3e2712b4f8c28e3e63e71ba1a1f90fce1ab,C++,43.0,15.0,28.0
+dtschump,https://github.com/dtschump/CImg,ac8003393569aba51048c9d67e1491559877b1d1,C++,3.0,2.0,1.0
+robUx4,https://github.com/Matroska-Org/libebml,05beb69ba60acce09f73ed491bb76f332849c3a0,C++,8.0,7.0,1.0
+robUx4,https://github.com/Matroska-Org/libebml,b66ca475be967547af9a3784e720fbbacd381be6,C++,2.0,1.0,1.0
+kevinhendricks,https://github.com/Sigil-Ebook/Sigil,04e2f280cc4a0766bedcc7b9eb56449ceecc2ad4,C++,41.0,35.0,6.0
+kevinhendricks,https://github.com/Sigil-Ebook/Sigil,0979ba8d10c96ebca330715bfd4494ea0e019a8f,C++,49.0,49.0,0.0
+kevinhendricks,https://github.com/Sigil-Ebook/Sigil,369eebe936e4a8c83cc54662a3412ce8bef189e4,C++,8.0,8.0,0.0
+CendioOssman,https://github.com/CendioOssman/tigervnc,d61a767d6842b530ffb532ddd5a3d233119aad40,C++,27.0,16.0,11.0
+CendioOssman,https://github.com/CendioOssman/tigervnc,996356b6c65ca165ee1ea46a571c32a1dc3c3821,C++,22.0,22.0,0.0
+CendioOssman,https://github.com/CendioOssman/tigervnc,b4ada8d0c6dac98c8b91fc64d112569a8ae5fb95,C++,37.0,21.0,16.0
+rryan,https://github.com/tensorflow/tensorflow,db4f9717c41bccc3ce10099ab61996b246099892,C++,65.0,32.0,33.0
+str4d,https://github.com/zcash/zcash,c1fbf8ab5d73cff5e1f45236995857c75ba4128d,C++,50.0,32.0,18.0
+kevina,https://github.com/GNUAspell/aspell,80fa26c74279fced8d778351cff19d1d8f44fe4e,C++,5.0,3.0,2.0
+rouault,https://github.com/OSGeo/gdal,148115fcc40f1651a5d15fa34c9a8c528e7147bb,C++,1.0,0.0,1.0
+victorjulien,https://github.com/OISF/suricata,9f0294fadca3dcc18c919424242a41e01f3e8318,C++,37.0,37.0,0.0
+victorjulien,https://github.com/OISF/suricata,fa692df37a796c3330c81988d15ef1a219afc006,C++,3.0,2.0,1.0
+frankmorgner,https://github.com/OpenSC/OpenSC,c3f23b836e5a1766c36617fe1da30d22f7b63de2,C++,2.0,1.0,1.0
+thangktran,https://github.com/opencv/opencv,d1615ba11a93062b1429fce9f0f638d1572d3418,C++,95.0,93.0,2.0
+awesomekling,https://github.com/SerenityOS/serenity,0fc24fe2564736689859e7edfa177a86dac36bf9,C++,8.0,4.0,4.0
+bk138,https://github.com/LibVNC/libvncserver,54220248886b5001fbbb9fa73c4e1a2cb9413fed,C++,5.0,5.0,0.0
+jwhui,https://github.com/openthread/openthread,b8c3161281f8e15873f8decabd8eac461717aefe,C++,3.0,2.0,1.0
+jwhui,https://github.com/openthread/openthread,c3a3a0c424322009fec3ab735fb20ce8f6e19e70,C++,36.0,21.0,15.0
+jreiser,https://github.com/upx/upx,8be9da8280dfa69d5df4417d4d81bda1cab78010,C++,50.0,43.0,7.0
+SadieCat,https://github.com/inspircd/inspircd,8745660fcdac7c1b80c94cfc0ff60928cd4dd4b7,C++,6.0,6.0,0.0
+SadieCat,https://github.com/inspircd/inspircd,7b47de3c194f239c5fea09a0e49696c9af017d51,C++,2.0,1.0,1.0
+rouault,https://github.com/OSGeo/gdal,767e3a56144f676ca738ef8f700e0e56035bd05a,C++,15.0,5.0,10.0
+kevina,https://github.com/gnuaspell/aspell,0718b375425aad8e54e1150313b862e4c6fd324a,C++,18.0,14.0,4.0
+mingtaoy,https://github.com/facebook/wangle,3b17ba10a82c71e7808760e027ac6af687e06074,C++,3.0,2.0,1.0
+knekritz,https://github.com/facebookincubator/fizz,40bbb161e72fb609608d53b9d64c56bb961a6ee2,C++,14.0,11.0,3.0
+knekritz,https://github.com/facebook/wangle,5b3bceca875e4ea4ed9d14c20b20ce46c92c13c6,C++,39.0,37.0,2.0
+davidtgoldblatt,https://github.com/facebook/fbthrift,01686e15ec77ccb4d49a77d5bce3a01601e54d64,C++,5.0,3.0,2.0
+error ao obter,https://gitlab.com/libtiff/libtiff,802d3cbf3043be5dce5317e140ccb1c17a6a2d39,C++,,,
+jplevyak,https://github.com/istio/envoy,8788a3cf255b647fd14e6b5e2585abaaedb28153,C++,33.0,19.0,14.0
+akallabeth,https://github.com/FreeRDP/FreeRDP,58a3122250d54de3a944c487776bcd4d1da4721e,C++,146.0,113.0,33.0
+aidanholm,https://github.com/crawl/crawl,768f60da87a3fa0b5561da5ade9309577c176d04,C++,17.0,17.0,0.0
+aidanholm,https://github.com/crawl/crawl,fc522ff6eb1bbb85e3de60c60a45762571e48c28,C++,5.0,5.0,0.0
+skvadrik,https://github.com/skvadrik/re2c,c4603ba5ce229db83a2a4fb93e6d4b4e3ec3776a,C++,3.0,2.0,1.0
+oy,https://github.com/teeworlds/teeworlds,c68402fa7e279d42886d5951d1ea8ac2facc1ea5,C++,4.0,2.0,2.0
+AntonKueltz,https://github.com/AntonKueltz/fastecdsa,e592f106edd5acf6dacedfab2ad16fe6c735c9d1,C++,51.0,50.0,1.0
+autor nulo,https://github.com/torvalds/linux,28d76df18f0ad5bcf5fa48510b225f0ed262a99b,C++,213.0,50.0,163.0
+DarthGandalf,https://github.com/znc/znc,2390ad111bde16a78c98ac44572090b33c3bd2d8,C++,10.0,9.0,1.0
+DarthGandalf,https://github.com/znc/znc,d229761821da38d984a9e4098ad96842490dc001,C++,18.0,16.0,2.0
+vmauery,https://github.com/openbmc/phosphor-host-ipmid,b265455a2518ece7c004b43c144199ec980fc620,C++,4.0,2.0,2.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,27b417360cbd671ef55915e4bb6bb06af8b8a832,C++,2.0,1.0,1.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,ca8c013b5e97b1373b3bb1c97ea655e69f31a575,C++,32.0,17.0,15.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,adf095206f25471e864a8e63a0f1caef53a0e3a6,C++,63.0,48.0,15.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,2d88f470dea2671b430884260f3626b1fe99830a,C++,3.0,3.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,00302787b788c5ff04cb6f62aed5a74d936e86c0,C++,7.0,1.0,6.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,cd31fd0ce0449a9e0f83dcad08d6ed7f1d6bef3f,C++,23.0,16.0,7.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,fff2c8326280c07733828f990548979bdc893859,C++,84.0,81.0,3.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,204945b19e44b57906c9344c0d00120eeeae178a,C++,51.0,48.0,3.0
+tobydox,https://github.com/veyon/veyon,f231ec511b9a09f43f49b2c7bb7c60b8046276b1,C++,4.0,3.0,1.0
+alextutubalin,https://github.com/LibRaw/LibRaw,20ad21c0d87ca80217aee47533d91e633ce1864d,C++,60.0,60.0,0.0
+exelotl,https://github.com/milkytracker/MilkyTracker,7afd55c42ad80d01a339197a2d8b5461d214edaf,C++,7.0,4.0,3.0
+kdt3rd,https://github.com/AcademySoftwareFoundation/openexr,8b5370c688a7362673c3a5256d93695617a4cd9a,C++,2.0,1.0,1.0
+peterhillman,https://github.com/AcademySoftwareFoundation/openexr,74504503cff86e986bac441213c403b0ba28d58f,C++,4.0,2.0,2.0
+peterhillman,https://github.com/AcademySoftwareFoundation/openexr,6bb36714528a9563dd3b92720c5063a1284b86f8,C++,7.0,7.0,0.0
+HughR,https://github.com/libreswan/libreswan,471a3e41a449d7c753bc4edbba4239501bb62ba8,C++,2.0,1.0,1.0
+flexpaper,https://github.com/flexpaper/pdf2json,80bf71f16c804108fd933e267fe31692aaa509b4,C++,34.0,31.0,3.0
+autor nulo,https://github.com/facebook/hhvm,b3679121bb3c7017ff04b4c08402ffff5cf59b13,C++,9.0,6.0,3.0
+autor nulo,https://github.com/facebook/hhvm,dabd48caf74995e605f1700344f1ff4a5d83441d,C++,8.0,8.0,0.0
+autor nulo,https://github.com/facebook/hhvm,bd586671a3c22eb2f07e55f11b3ce64e1f7961e7,C++,6.0,4.0,2.0
+jjergus,https://github.com/facebook/hhvm,c1c4bb0cf9e076aafaf4ff3515556ef9faf906f3,C++,6.0,6.0,0.0
+mhorowitz,https://github.com/facebook/hermes,fe52854cdf6725c2eaa9e125995da76e6ceb27da,C++,19.0,18.0,1.0
+avp,https://github.com/facebook/hermes,2c7af7ec481ceffd0d14ce2d7c045e475fd71dc6,C++,84.0,82.0,2.0
+dulinriley,https://github.com/facebook/hermes,b2021df620824627f5a8c96615edbd1eb7fdddfc,C++,67.0,52.0,15.0
+syoyo,https://github.com/syoyo/tinyexr,a685e3332f61cd4e59324bf3f669d36973d64270,C++,16.0,15.0,1.0
+fancycode,https://github.com/strukturag/libheif,f7399b62d7fbc596f1b2871578c1d2053bedf1dd,C++,6.0,6.0,0.0
+c0diq,https://github.com/plutinosoft/Platinum,9a4ceaccb1585ec35c45fd8e2585538fff6a865e,C++,2.0,1.0,1.0
+pauldavisthefirst,https://github.com/Ardour/ardour,96daa4036a425ff3f23a7dfcba57bfb0f942bec6,C++,4.0,2.0,2.0
+seviezhou,https://github.com/avast/retdec,517298bafaaff0a8e3dd60dd055a67c41b545807,C++,6.0,6.0,0.0
+yhirose,https://github.com/yhirose/cpp-peglib,0061f393de54cf0326621c079dc2988336d1ebb3,C++,32.0,28.0,4.0
+yhirose,https://github.com/yhirose/cpp-peglib,b3b29ce8f3acf3a32733d930105a17d7b0ba347e,C++,17.0,14.0,3.0
+ddennedy,https://github.com/mltframework/shotcut,f008adc039642307f6ee3378d378cdb842e52c1d,C++,9.0,2.0,7.0
+Vogtinator,https://github.com/KDE/ark,8bf8c5ef07b0ac5e914d752681e470dea403a5bd,C++,18.0,3.0,15.0
+alextutubalin,https://github.com/LibRaw/LibRaw,4feaed4dea636cee4fee010f615881ccf76a096d,C++,14.0,7.0,7.0
+CendioOssman,https://github.com/TigerVNC/tigervnc,b30f10c681ec87720cff85d490f67098568a9cba,C++,163.0,73.0,90.0
+aleixpol,https://github.com/KDE/kdeconnect-kde,024e5f23db8d8ad3449714b906b46094baaffb89,C++,10.0,10.0,0.0
+aleixpol,https://github.com/KDE/kdeconnect-kde,4fbd01a3d44a0bcca888c49a77ec7cfd10e113d7,C++,8.0,8.0,0.0
+albertvaka,https://github.com/KDE/kdeconnect-kde,542d94a70c56aa386c8d4d793481ce181b0422e8,C++,11.0,11.0,0.0
+albertvaka,https://github.com/KDE/kdeconnect-kde,613899be24b6e2a6b3e5cc719efce8ae8a122991,C++,13.0,13.0,0.0
+aleixpol,https://github.com/KDE/kdeconnect-kde,8112729eb0f13e6947984416118531078e65580d,C++,39.0,29.0,10.0
+albertvaka,https://github.com/KDE/kdeconnect-kde,ce0f00fc2d3eccb51d0af4eba61a4f60de086a59,C++,5.0,5.0,0.0
+Matthias-Wandel,https://github.com/F-ZhaoYang/jhead,5186ddcf9e35a7aa0ff0539489a930434a1325f4,C++,7.0,5.0,2.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,ace0c15a22f7f054abcc1f53eabbcb0a1239a9e2,C++,10.0,5.0,5.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,c1e1fc899ad5f8c725dcbb6470069890b5060bc7,C++,6.0,6.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,8b5b9dc96666a3a5d27fad7179ff215e3b74b67c,C++,268.0,185.0,83.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,14755416e364f17fb1870882fa778c7fec7f16e3,C++,8.0,6.0,2.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,0cc38aaa4064fd9e79101994ce9872c6d91f816b,C++,12.0,12.0,0.0
+zwass,https://github.com/osquery/osquery,c3f9a3dae22d43ed3b4f6a403cbf89da4cba7c3c,C++,92.0,90.0,2.0
+jreiser,https://github.com/upx/upx,e2f60adc95334f47e286838dac33160819c5d74d,C++,16.0,8.0,8.0
+jreiser,https://github.com/upx/upx,1bb93d4fce9f1d764ba57bf5ac154af515b3fc83,C++,10.0,6.0,4.0
+jreiser,https://github.com/upx/upx,eb90eab6325d009004ffb155e3e33f22d4d3ca26,C++,16.0,16.0,0.0
+mcheshkov,https://github.com/gemini-testing/png-img,14ac462a32ca4b3b78f56502ac976d5b0222ce3d,C++,14.0,12.0,2.0
+bluca,https://github.com/zeromq/libzmq,397ac80850bf8d010fae23dd215db0ee2c677306,C++,3.0,2.0,1.0
+uNetworkingAB,https://github.com/uNetworking/uWebSockets,03fca626a95130ab80f86adada54b29d27242759,C++,14.0,10.0,4.0
+zpostfacto,https://github.com/ValveSoftware/GameNetworkingSockets,e0c86dcb9139771db3db0cfdb1fb8bef0af19c43,C++,33.0,26.0,7.0
+zpostfacto,https://github.com/ValveSoftware/GameNetworkingSockets,bea84e2844b647532a9b7fbc3a6a8989d66e49e3,C++,27.0,20.0,7.0
+zpostfacto,https://github.com/ValveSoftware/GameNetworkingSockets,d944a10808891d202bb1d5e1998de6e0423af678,C++,4.0,2.0,2.0
+kongoshuu,https://github.com/google/asylo,e582f36ac49ee11a21d23ad6a30c333092e0a94e,C++,6.0,4.0,2.0
+kongoshuu,https://github.com/google/asylo,299f804acbb95a612ab7c504d25ab908aa59ae93,C++,2.0,1.0,1.0
+kongoshuu,https://github.com/google/asylo,ed0926bff0e423cd122a18b3d2fc772817f66825,C++,6.0,6.0,0.0
+kongoshuu,https://github.com/google/asylo,83036fd841d33baa7e039f842d131aa7881fdcc2,C++,5.0,5.0,0.0
+kongoshuu,https://github.com/google/asylo,a37fb6a0e7daf30134dbbf357c9a518a1026aa02,C++,4.0,4.0,0.0
+kongoshuu,https://github.com/google/asylo,6ff3b77ffe110a33a2f93848a6333f33616f02c4,C++,7.0,4.0,3.0
+kongoshuu,https://github.com/google/asylo,fa6485c5d16a7355eab047d4a44345a73bc9131e,C++,5.0,5.0,0.0
+kongoshuu,https://github.com/google/asylo,8fed5e334131abaf9c5e17307642fbf6ce4a57ec,C++,8.0,8.0,0.0
+kongoshuu,https://github.com/google/asylo,b1d120a2c7d7446d2cc58d517e20a1b184b82200,C++,7.0,6.0,1.0
+kongoshuu,https://github.com/google/asylo,6e158d558abd3c29a0208e30c97c9a8c5bd4230f,C++,5.0,5.0,0.0
+kongoshuu,https://github.com/google/asylo,382da2b8b09cbf928668a2445efb778f76bd9c8a,C++,4.0,3.0,1.0
+peterhillman,https://github.com/AcademySoftwareFoundation/openexr,85fd638ae0d5fa132434f4cbf32590261c1dba97,C++,2.0,1.0,1.0
+peterhillman,https://github.com/AcademySoftwareFoundation/openexr,25e9515b06a6bc293d871622b8cafaee7af84e0f,C++,5.0,5.0,0.0
+peterhillman,https://github.com/AcademySoftwareFoundation/openexr,51a92d67f53c08230734e74564c807043cbfe41e,C++,153.0,89.0,64.0
+laverdet,https://github.com/laverdet/isolated-vm,27151bfecc260e96714443613880e3b2e6596704,C++,3.0,3.0,0.0
+kongoshuu,https://github.com/google/asylo,53ed5d8fd8118ced1466e509606dd2f473707a5c,C++,7.0,4.0,3.0
+kongoshuu,https://github.com/google/asylo,ecfcd0008b6f8f63c6fa3cc1b62fcd4a52f2c0ad,C++,7.0,4.0,3.0
+kongoshuu,https://github.com/google/asylo,a47ef55db2337d29de19c50cd29b0deb2871d31c,C++,9.0,5.0,4.0
+kongoshuu,https://github.com/google/asylo,90d7619e9dd99bcdb6cd28c7649d741d254d9a1a,C++,3.0,3.0,0.0
+szarvas,https://github.com/juce-framework/JUCE,2e874e80cba0152201aff6a4d0dc407997d10a7f,C++,111.0,105.0,6.0
+yangchi,https://github.com/facebookincubator/mvfst,a67083ff4b8dcbb7ee2839da6338032030d712b0,C++,20.0,19.0,1.0
+Orvid,https://github.com/facebook/folly,4f304af1411e68851bdd00ef6140e9de4616f7d3,C++,37.0,34.0,3.0
+dulinriley,https://github.com/facebook/hermes,d86e185e485b6330216dee8e854455c694e3a36e,C++,11.0,6.0,5.0
+neildhar,https://github.com/facebook/hermes,55e1b2343f4deb1a1b5726cfe1e23b2068217ff2,C++,7.0,6.0,1.0
+alimpfard,https://github.com/SerenityOS/serenity,48fbf6a88d4822a1e5470cf08f29464511bd72c1,C++,2.0,1.0,1.0
+rousskov,https://github.com/squid-cache/squid,051824924c709bd6162a378f746fb859454c674e,C++,2.0,1.0,1.0
+IdanHo,https://github.com/SerenityOS/serenity,c9f25bca048443e317f1994ba9b106f2386688c3,C++,3.0,2.0,1.0
+kevinbackhouse,https://github.com/Exiv2/exiv2,783b3a6ff15ed6f82a8f8e6c8a6f3b84a9b04d4b,C++,41.0,30.0,11.0
+kevinbackhouse,https://github.com/Exiv2/exiv2,f9308839198aca5e68a65194f151a1de92398f54,C++,14.0,9.0,5.0
+autor nulo,https://github.com/tensorflow/tensorflow,eebb96c2830d48597d055d247c0e9aebaea94cd5,C++,9.0,9.0,0.0
+autor nulo,https://github.com/tensorflow/tensorflow,030af767d357d1b4088c4a25c72cb3906abac489,C++,8.0,8.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,a7116dd3913c4a4afd2a3a938573aa7c785fdfc6,C++,19.0,16.0,3.0
+autor nulo,https://github.com/tensorflow/tensorflow,b055b9c474cd376259dde8779908f9eeaf097d93,C++,5.0,5.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,799f835a3dfa00a4d852defa29b15841eea9d64f,C++,7.0,7.0,0.0
+autor nulo,https://github.com/tensorflow/tensorflow,ff70c47a396ef1e3cb73c90513da4f5cb71bebba,C++,14.0,10.0,4.0
+autor nulo,https://github.com/tensorflow/tensorflow,b1cc5e5a50e7cee09f2c6eb48eb40ee9c4125025,C++,55.0,48.0,7.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,8f37b52e1320d8d72a9529b2468277791a261197,C++,56.0,56.0,0.0
+autor nulo,https://github.com/tensorflow/tensorflow,c57c0b9f3a4f8684f3489dd9a9ec627ad8b599f5,C++,10.0,9.0,1.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,311403edbc9816df80274bd1ea8b3c0c0f22c3fa,C++,42.0,42.0,0.0
+autor nulo,https://github.com/tensorflow/tensorflow,69c68ecbb24dff3fa0e46da0d16c821a2dd22d7c,C++,26.0,19.0,7.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,fca9874a9b42a2134f907d2fb46ab774a831404a,C++,4.0,4.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,2be2cdf3a123e231b16f766aa0e27d56b4606535,C++,5.0,5.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,b12aa1d44352de21d1a6faaf04172d8c2508b42b,C++,13.0,13.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,cfa91be9863a91d5105a3b4941096044ab32036b,C++,13.0,11.0,2.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,f851613f8f0fb0c838d160ced13c134f778e3ce7,C++,2.0,2.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,e6a7c7cc18c3aaad1ae0872cb0a959f5c923d2bd,C++,67.0,34.0,33.0
+autor nulo,https://github.com/tensorflow/tensorflow,26eb323554ffccd173e8a79a8c05c15b685ae4d1,C++,2.0,2.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,44b7f486c0143f68b56c34e2d01e146ee445134a,C++,30.0,30.0,0.0
+autor nulo,https://github.com/tensorflow/tensorflow,b432a38fe0e1b4b904a6c222cbce794c39703e87,C++,48.0,36.0,12.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,a324ac84e573fba362a5e53d4e74d5de6729933e,C++,25.0,23.0,2.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,f6c40f0c6cbf00d46c7717a26419f2062f2f8694,C++,10.0,8.0,2.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,c570e2ecfc822941335ad48f6e10df4e21f11c96,C++,13.0,13.0,0.0
+autor nulo,https://github.com/tensorflow/tensorflow,4f663d4b8f0bec1b48da6fa091a7d29609980fa4,C++,5.0,5.0,0.0
+autor nulo,https://github.com/tensorflow/tensorflow,ea3b43e98c32c97b35d52b4c66f9107452ca8fb2,C++,2.0,2.0,0.0
+autor nulo,https://github.com/tensorflow/tensorflow,20431e9044cf2ad3c0323c34888b192f3289af6b,C++,10.0,10.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,1e922ccdf6bf46a3a52641f99fd47d54c1decd13,C++,6.0,6.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,67784700869470d65d5f2ef20aeb5e97c31673cb,C++,2.0,2.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,d6ed5bcfe1dcab9e85a4d39931bd18d99018e75b,C++,77.0,67.0,10.0
+pak-laura,https://github.com/tensorflow/tensorflow,548b5eaf23685d86f722233d8fbc21d0a4aecb96,C++,4.0,4.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,480641e3599775a8895254ffbc0fc45621334f68,C++,20.0,16.0,4.0
+autor nulo,https://github.com/tensorflow/tensorflow,704866eabe03a9aeda044ec91a8d0c83fc1ebdbe,C++,2.0,2.0,0.0
+autor nulo,https://github.com/tensorflow/tensorflow,99085e8ff02c3763a0ec2263e44daec416f6a387,C++,5.0,5.0,0.0
+autor nulo,https://github.com/tensorflow/tensorflow,da5ff2daf618591f64b2b62d9d9803951b945e9f,C++,3.0,3.0,0.0
+autor nulo,https://github.com/tensorflow/tensorflow,1a2a87229d1d61e23a39373777c056161eb4084d,C++,3.0,3.0,0.0
+autor nulo,https://github.com/tensorflow/tensorflow,4071d8e2f6c45c1955a811fee757ca2adbe462c1,C++,6.0,6.0,0.0
+autor nulo,https://github.com/tensorflow/tensorflow,7f283ff806b2031f407db64c4d3edcda8fb9f9f5,C++,4.0,4.0,0.0
+autor nulo,https://github.com/tensorflow/tensorflow,8ba6fa29cd8bf9cef9b718dc31c78c73081f5b31,C++,4.0,4.0,0.0
+pak-laura,https://github.com/tensorflow/tensorflow,51300ba1cc2f487aefec6e6631fef03b0e08b298,C++,19.0,19.0,0.0
+autor nulo,https://github.com/tensorflow/tensorflow,a84358aa12f0b1518e606095ab9cfddbf597c121,C++,6.0,6.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,77dd114513d7796e1e2b8aece214a380af26fbf4,C++,5.0,5.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,1c56f53be0b722ca657cbc7df461ed676c8642a2,C++,4.0,4.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,31bd5026304677faa8a0b77602c6154171b9aec1,C++,3.0,3.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,f4c364a5d6880557f6f5b6eb5cee2c407f0186b3,C++,47.0,47.0,0.0
+autor nulo,https://github.com/tensorflow/tensorflow,faa76f39014ed3b5e2c158593b1335522e573c7f,C++,5.0,4.0,1.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,3f6fe4dfef6f57e768260b48166c27d148f3015f,C++,15.0,11.0,4.0
+autor nulo,https://github.com/tensorflow/tensorflow,7ae2af34087fb4b5c8915279efd03da3b81028bc,C++,5.0,5.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,5e52ef5a461570cfb68f3bdbbebfe972cb4e0fd8,C++,3.0,3.0,0.0
+pak-laura,https://github.com/tensorflow/tensorflow,ef0c008ee84bad91ec6725ddc42091e19a30cf0e,C++,4.0,4.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,dcd7867de0fea4b72a2b34bd41eb74548dc23886,C++,3.0,3.0,0.0
+autor nulo,https://github.com/tensorflow/tensorflow,79865b542f9ffdc9caeb255631f7c56f1d4b6517,C++,6.0,6.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,f7cc8755ac6683131fdfa7a8a121f9d7a9dec6fb,C++,36.0,36.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,376c352a37ce5a68b721406dc7e77ac4b6cf483d,C++,2.0,2.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,a3d9f9be9ac2296615644061b40cefcee341dcc4,C++,13.0,13.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,ecf768cbe50cedc0a45ce1ee223146a3d3d26d23,C++,4.0,4.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,63c6a29d0f2d692b247f7bf81f8732d6442fad09,C++,12.0,12.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,6fc9141f42f6a72180ecd24021c3e6b36165fe0d,C++,13.0,13.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,12c727cee857fa19be717f336943d95fca4ffe4f,C++,13.0,13.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,a74768f8e4efbda4def9f16ee7e13cf3922ac5f7,C++,4.0,3.0,1.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,32fdcbff9d06d010d908fcc4bd4b36eb3ce15925,C++,14.0,14.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,b1b323042264740c398140da32e93fb9c2c9f33e,C++,3.0,3.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,5899741d0421391ca878da47907b1452f06aaf1b,C++,12.0,12.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,6972f9dfe325636b3db4e0bc517ee22a159365c0,C++,28.0,27.0,1.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,4c0ee937c0f61c4fc5f5d32d9bb4c67428012a60,C++,13.0,10.0,3.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,5f7975d09eac0f10ed8a17dbb6f5964977725adc,C++,17.0,17.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,0d45ea1ca641b21b73bcf9c00e0179cda284e7e7,C++,1.0,1.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,953f28dca13c92839ba389c055587cfe6c723578,C++,60.0,31.0,29.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,f8378920345f4f4604202d4ab15ef64b2aceaa16,C++,13.0,10.0,3.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,2c74674348a4708ced58ad6eb1b23354df8ee044,C++,1.0,1.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,ff489d95a9006be080ad14feb378f2b4dac35552,C++,8.0,6.0,2.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,106d8f4fb89335a2c52d7c895b7a7485465ca8d9,C++,7.0,7.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,f61c57bd425878be108ec787f4d96390579fb83e,C++,4.0,4.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,6d36ba65577006affb272335b7c1abd829010708,C++,1.0,1.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,b22786e7e9b7bdb6a56936ff29cc7e9968d7bc1d,C++,1.0,1.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,3ebedd7e345453d68e279cfc3e4072648e5e12e5,C++,5.0,5.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,4253f96a58486ffe84b61c0415bb234a4632ee73,C++,6.0,6.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,cbda3c6b2dbbd3fbdc482ff8c0170a78ec2e97d0,C++,5.0,3.0,2.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,c59c37e7b2d563967da813fa50fe20b21f4da683,C++,3.0,3.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,5117e0851348065ed59c991562c0ec80d9193db2,C++,1.0,1.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,ae2daeb45abfe2c6dda539cf8d0d6f653d3ef412,C++,2.0,2.0,0.0
+autor nulo,https://github.com/tensorflow/tensorflow,ba6822bd7b7324ba201a28b2f278c29a98edbef2,C++,5.0,5.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,f6fde895ef9c77d848061c0517f19d0ec2682f3a,C++,15.0,9.0,6.0
+autor nulo,https://github.com/tensorflow/tensorflow,b761c9b652af2107cfbc33efd19be0ce41daa33e,C++,20.0,11.0,9.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,c4d7afb6a5986b04505aca4466ae1951686c80f6,C++,55.0,35.0,20.0
+autor nulo,https://github.com/tensorflow/tensorflow,f94ef358bb3e91d517446454edff6535bcfe8e4a,C++,5.0,5.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,41727ff06111117bdf86b37db198217fd7a143cc,C++,17.0,12.0,5.0
+autor nulo,https://github.com/tensorflow/tensorflow,6fd02f44810754ae7481838b6a67c5df7f909ca3,C++,5.0,5.0,0.0
+autor nulo,https://github.com/tensorflow/tensorflow,c5b0d5f8ac19888e46ca14b0e27562e7fbbee9a9,C++,3.0,3.0,0.0
+autor nulo,https://github.com/tensorflow/tensorflow,1d04d7d93f4ed3854abf75d6b712d72c3f70d6b6,C++,12.0,12.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,0ab290774f91a23bebe30a358fde4e53ab4876a0,C++,1.0,1.0,0.0
+autor nulo,https://github.com/tensorflow/tensorflow,14607c0707040d775e06b6817325640cb4b5864c,C++,3.0,3.0,0.0
+autor nulo,https://github.com/tensorflow/tensorflow,4504a081af71514bb1828048363e6540f797005b,C++,4.0,4.0,0.0
+pak-laura,https://github.com/tensorflow/tensorflow,e07e1c3d26492c06f078c7e5bf2d138043e199c1,C++,58.0,57.0,1.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,e6340f0665d53716ef3197ada88936c2a5f7a2d3,C++,17.0,17.0,0.0
+autor nulo,https://github.com/tensorflow/tensorflow,82e6203221865de4008445b13c69b6826d2b28d9,C++,12.0,12.0,0.0
+IdanHo,https://github.com/SerenityOS/serenity,4317db7498eaa5a37068052bb0310fbc6a5f78e4,C++,12.0,9.0,3.0
+jreiser,https://github.com/upx/upx,90279abdfcd235172eab99651043051188938dcc,C++,20.0,15.0,5.0
+fabiangreffrath,https://github.com/knik0/faad2,1b71a6ba963d131375f5e489b3b25e36f19f3f24,C++,5.0,4.0,1.0
+ardovm,https://github.com/apache/openoffice,efddaef0151af3be16078cc4d88c6bae0f911e56,C++,45.0,45.0,0.0
+SadieCat,https://github.com/inspircd/inspircd,4350a11c663b0d75f8119743bffb7736d87abd4d,C++,9.0,5.0,4.0
+akallabeth,https://github.com/FreeRDP/FreeRDP,0d79670a28c0ab049af08613621aa0c267f977e9,C++,4.0,4.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,87158f43f05f2720a374f3e6d22a7aaa3a33f750,C++,13.0,13.0,0.0
+pak-laura,https://github.com/tensorflow/tensorflow,d9204be9f49520cdaaeb2541d1dc5187b23f31d9,C++,11.0,10.0,1.0
+tensorflower-gardener,https://github.com/tensorflow/tensorflow,5dc7f6981fdaf74c8c5be41f393df705841fb7c5,C++,22.0,15.0,7.0
+pak-laura,https://github.com/tensorflow/tensorflow,301ae88b331d37a2a16159b65b255f4f9eb39314,C++,3.0,3.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,9e82dce6e6bd1f36a57e08fa85af213e2b2f2622,C++,9.0,8.0,1.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,4923de56ec94fff7770df259ab7f2288a74feb41,C++,6.0,6.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,a2b743f6017d7b97af1fe49087ae15f0ac634373,C++,8.0,7.0,1.0
+pak-laura,https://github.com/tensorflow/tensorflow,482da92095c4d48f8784b1f00dda4f81c28d2988,C++,5.0,4.0,1.0
+pak-laura,https://github.com/tensorflow/tensorflow,8a6e874437670045e6c7dc6154c7412b4a2135e2,C++,4.0,4.0,0.0
+pak-laura,https://github.com/tensorflow/tensorflow,96f364a1ca3009f98980021c4b32be5fdcca33a1,C++,7.0,7.0,0.0
+pak-laura,https://github.com/tensorflow/tensorflow,c283e542a3f422420cfdb332414543b62fc4e4a5,C++,6.0,6.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,9728c60e136912a12d99ca56e106b7cce7af5986,C++,2.0,2.0,0.0
+pak-laura,https://github.com/tensorflow/tensorflow,7bdf50bb4f5c54a4997c379092888546c97c3ebd,C++,5.0,5.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,e0b6e58c328059829c3eb968136f17aa72b6c876,C++,15.0,14.0,1.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,0f931751fb20f565c4e94aa6df58d54a003cdb30,C++,12.0,12.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,5ecec9c6fbdbc6be03295685190a45e7eee726ab,C++,1.0,1.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,ac117ee8a8ea57b73d34665cdf00ef3303bc0b11,C++,11.0,9.0,2.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,bc9c546ce7015c57c2f15c168b3d9201de679a1d,C++,5.0,5.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,01cff3f986259d661103412a20745928c727326f,C++,11.0,6.0,5.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,1071f554dbd09f7e101324d366eec5f4fe5a3ece,C++,12.0,11.0,1.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,f2a673bd34f0d64b8e40a551ac78989d16daad09,C++,6.0,6.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,ff8894044dfae5568ecbf2ed514c1a37dc394f1b,C++,3.0,3.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,93f428fd1768df147171ed674fee1fc5ab8309ec,C++,5.0,5.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,e86605c0a336c088b638da02135ea6f9f6753618,C++,2.0,1.0,1.0
+pak-laura,https://github.com/tensorflow/tensorflow,8a84f7a2b5a2b27ecf88d25bad9ac777cd2f7992,C++,3.0,3.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,429f009d2b2c09028647dd4bb7b3f6f414bbaad7,C++,20.0,19.0,1.0
+pak-laura,https://github.com/tensorflow/tensorflow,9c87c32c710d0b5b53dc6fd3bfde4046e1f7a5ad,C++,20.0,20.0,0.0
+pak-laura,https://github.com/tensorflow/tensorflow,6da6620efad397c85493b8f8667b821403516708,C++,43.0,43.0,0.0
+pak-laura,https://github.com/tensorflow/tensorflow,e84c975313e8e8e38bb2ea118196369c45c51378,C++,7.0,7.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,203214568f5bc237603dbab6e1fd389f1572f5c9,C++,40.0,25.0,15.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,9e62869465573cb2d9b5053f1fa02a81fce21d69,C++,14.0,14.0,0.0
+pak-laura,https://github.com/tensorflow/tensorflow,be7a4de6adfbd303ce08be4332554dff70362612,C++,6.0,6.0,0.0
+pak-laura,https://github.com/tensorflow/tensorflow,2e0ee46f1a47675152d3d865797a18358881d7a6,C++,4.0,4.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,3a7362750d5c372420aa8f0caf7bf5b5c3d0f52d,C++,8.0,8.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,b5cdbf12ffcaaffecf98f22a6be5a64bb96e4f58,C++,2.0,2.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,42459e4273c2e47a3232cc16c4f4fff3b3a35c38,C++,8.0,8.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,532f5c5a547126c634fefd43bbad1dc6417678ac,C++,15.0,9.0,6.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,a4e138660270e7599793fa438cd7b2fc2ce215a6,C++,5.0,5.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,d7de67733925de196ec8863a33445b73f9562d1d,C++,2.0,2.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,136b51f10903e044308cf77117c0ed9871350475,C++,7.0,7.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,8a793b5d7f59e37ac7f3cd0954a750a2fe76bad4,C++,11.0,11.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,da857cfa0fde8f79ad0afdbc94e88b5d4bbec764,C++,4.0,4.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,718721986aa137691ee23f03638867151f74935f,C++,1.0,1.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,4a91f2069f7145aab6ba2d8cfe41be8a110c18a5,C++,9.0,9.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,8933b8a21280696ab119b63263babdb54c298538,C++,3.0,3.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,1e206baedf8bef0334cca3eb92bab134ef525a28,C++,17.0,16.0,1.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,d94ffe08a65400f898241c0374e9edc6fa8ed257,C++,1.0,1.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,eb921122119a6b6e470ee98b89e65d721663179d,C++,69.0,53.0,16.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,15691e456c7dc9bd6be203b09765b063bf4a380c,C++,2.0,1.0,1.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,d6b57f461b39fd1aa8c1b870f1b974aac3554955,C++,3.0,3.0,0.0
+dellis23,https://github.com/tensorflow/tensorflow,ee119d4a498979525046fba1c3dd3f13a039fbb1,C++,21.0,19.0,2.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,0575b640091680cfb70f4dd93e70658de43b94f9,C++,3.0,2.0,1.0
+ejurgensen,https://github.com/owntone/owntone-server,246d8ae0cef27377e5dfe9ee3ad87e864d6b6266,C++,18.0,13.0,5.0
+aavit,https://github.com/qt/qtbase,6b400e3147dcfd8cc3a393ace1bd118c93762e0c,C++,2.0,1.0,1.0
+mhertsch,https://github.com/sonicdoe/detect-character-encoding,d44356927b92e3b13e178071bf6d7c671766f588,C++,5.0,5.0,0.0
+dlemstra,https://github.com/ImageMagick/ImageMagick,82775af03bbb10a0a1d0e15c0156c75673b4525e,C++,3.0,2.0,1.0
+bixia1,https://github.com/tensorflow/tensorflow,f09caa532b6e1ac8d2aa61b7832c78c5b79300c6,C++,2.0,2.0,0.0
+tensorflower-gardener,https://github.com/tensorflow/tensorflow,b619c6f865715ca3b15ef1842b5b95edbaa710ad,C++,30.0,29.0,1.0
+tensorflower-gardener,https://github.com/tensorflow/tensorflow,7731e8dfbe4a56773be5dc94d631611211156659,C++,4.0,3.0,1.0
+pkanwar23,https://github.com/tensorflow/tensorflow,7cf73a2274732c9d82af51c2bc2cf90d13cd7e6d,C++,22.0,18.0,4.0
+reedwm,https://github.com/tensorflow/tensorflow,4dddb2fd0b01cdd196101afbba6518658a2c9e07,C++,9.0,9.0,0.0
+reedwm,https://github.com/tensorflow/tensorflow,e7f497570abb6b4ae5af4970620cd880e4c0c904,C++,15.0,12.0,3.0
+miaout17,https://github.com/tensorflow/tensorflow,a0d64445116c43cf46a5666bd4eee28e7a82f244,C++,3.0,3.0,0.0
+penpornk,https://github.com/tensorflow/tensorflow,c79ba87153ee343401dbe9d1954d7f79e521eb14,C++,2.0,1.0,1.0
+qqfish,https://github.com/tensorflow/tensorflow,05cbebd3c6bb8f517a158b0155debb8df79017ff,C++,4.0,4.0,0.0
+penpornk,https://github.com/tensorflow/tensorflow,e6cf28c72ba2eb949ca950d834dd6d66bb01cfae,C++,10.0,10.0,0.0
+penpornk,https://github.com/tensorflow/tensorflow,67bfd9feeecfb3c61d80f0e46d89c170fbee682b,C++,8.0,8.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,68867bf01239d9e1048f98cbad185bf4761bedd3,C++,26.0,25.0,1.0
+penpornk,https://github.com/tensorflow/tensorflow,f410212e373eb2aec4c9e60bf3702eba99a38aba,C++,10.0,10.0,0.0
+SeeForTwo,https://github.com/tensorflow/tensorflow,1cb6bb6c2a6019417c9adaf9e6843ba75ee2580b,C++,44.0,41.0,3.0
+autor nulo,https://github.com/albertodemichelis/squirrel,23a0620658714b996d20da3d4dd1a0dcf9b0bd98,C++,4.0,4.0,0.0
+autor nulo,https://github.com/fuzzard/xbmc,80c8138c09598e88b4ddb6dbb279fa193bbb3237,C++,6.0,5.0,1.0
+philipianpearce,https://github.com/e2guardian/e2guardian,eae46a7e2a57103aadca903c4a24cca94dc502a2,C++,4.0,4.0,0.0
+aavit,https://github.com/qt/qtsvg,36cfd9efb9b22b891adee9c48d30202289cfa620,C++,59.0,25.0,34.0
+peterhillman,https://github.com/AcademySoftwareFoundation/openexr,11cad77da87c4fa2aab7d58dd5339e254db7937e,C++,14.0,14.0,0.0
+peterhillman,https://github.com/AcademySoftwareFoundation/openexr,db217f29dfb24f6b4b5100c24ac5e7490e1c57d0,C++,18.0,12.0,6.0
+trufae,https://github.com/radareorg/radare2,9650e3c352f675687bf6c6f65ff2c4a3d0e288fa,C++,6.0,5.0,1.0
+trufae,https://github.com/radareorg/radare2,6c4428f018d385fc80a33ecddcb37becea685dd5,C++,118.0,67.0,51.0
+tildearrow,https://github.com/tildearrow/furnace,0eb02422d5161767e9983bdaa5c429762d3477ce,C++,44.0,25.0,19.0
+radare,https://github.com/radareorg/radare2,0927ed3ae99444e7b47b84e43118deb10fe37529,C++,14.0,9.0,5.0
+radare,https://github.com/radareorg/radare2,ecc44b6a2f18ee70ac133365de0e509d26d5e168,C++,4.0,4.0,0.0
+kriszyp,https://github.com/Venemo/node-lmdb,97760104c0fd311206b88aecd91fa1f59fe2b85a,C++,2.0,2.0,0.0
+yanavlasov,https://github.com/envoyproxy/envoy,e9f936d85dc1edc34fabd0a1725ec180f2316353,C++,197.0,196.0,1.0
+clkskw,https://github.com/liyansong2018/elfspirit,c5b0f5a9a24f2451bbeda4751d67633bc375e608,C++,19.0,19.0,0.0
+ishark,https://github.com/tensorflow/tensorflow,23968a8bf65b009120c43b5ebcceaf52dbc9e943,C++,5.0,5.0,0.0
+ishark,https://github.com/tensorflow/tensorflow,37c01fb5e25c3d80213060460196406c43d31995,C++,10.0,10.0,0.0
+aaudiber,https://github.com/tensorflow/tensorflow,e3749a6d5d1e8d11806d4a2e9cc3123d1a90b75e,C++,26.0,19.0,7.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,6f4d3e8139ec724dbbcb40505891c81dd1052c4a,C++,9.0,9.0,0.0
+ishark,https://github.com/tensorflow/tensorflow,53b0dd6dc5957652f35964af16b892ec9af4a559,C++,14.0,14.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,2b7100d6cdff36aa21010a82269bc05a6d1cc74a,C++,48.0,21.0,27.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,adbbabdb0d3abb3cdeac69e38a96de1d678b24b3,C++,20.0,17.0,3.0
+karimnosseir,https://github.com/tensorflow/tensorflow,e5b0eec199c2d03de54fd6a7fd9275692218e2bc,C++,2.0,2.0,0.0
+karimnosseir,https://github.com/tensorflow/tensorflow,8c6f391a2282684a25cbfec7687bd5d35261a209,C++,1.0,1.0,0.0
+karimnosseir,https://github.com/tensorflow/tensorflow,1de49725a5fc4e48f1a3b902ec3599ee99283043,C++,23.0,16.0,7.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,a4e401da71458d253b05e41f28637b65baf64be4,C++,6.0,6.0,0.0
+karimnosseir,https://github.com/tensorflow/tensorflow,6364463d6f5b6254cac3d6aedf999b6a96225038,C++,18.0,11.0,7.0
+karimnosseir,https://github.com/tensorflow/tensorflow,6c0b2b70eeee588591680f5b7d5d38175fd7cdf6,C++,58.0,48.0,10.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,c2b31ff2d3151acb230edc3f5b1832d2c713a9e0,C++,7.0,4.0,3.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,97282c6d0d34476b6ba033f961590b783fa184cd,C++,7.0,6.0,1.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,1b54cadd19391b60b6fcccd8d076426f7221d5e8,C++,13.0,13.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,e952a89b7026b98fe8cbe626514a93ed68b7c510,C++,4.0,3.0,1.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,a68f68061e263a88321c104a6c911fe5598050a8,C++,18.0,3.0,15.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,b51b82fe65ebace4475e3c54eb089c18a4403f1c,C++,17.0,15.0,2.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,8a513cec4bec15961fbfdedcaa5376522980455c,C++,7.0,6.0,1.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,5b491cd5e41ad63735161cec9c2a568172c8b6a3,C++,9.0,9.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,cb164786dc891ea11d3a900e90367c339305dc7b,C++,5.0,4.0,1.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,0657c83d08845cc434175934c642299de2c0f042,C++,2.0,1.0,1.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,fcd18ce3101f245b083b30655c27b239dc72221e,C++,8.0,7.0,1.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,c79ccba517dbb1a0ccb9b01ee3bd2a63748b60dd,C++,1.0,1.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,92dba16749fae36c246bec3f9ba474d9ddeb7662,C++,6.0,4.0,2.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,1361fb7e29449629e1df94d44e0427ebec8c83c7,C++,15.0,15.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,1fb27733f943295d874417630edd3b38b34ce082,C++,12.0,10.0,2.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,240655511cd3e701155f944a972db71b6c0b1bb6,C++,6.0,4.0,2.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,c2426bba00a01de6913738df8fa78e0215fcce02,C++,2.0,1.0,1.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,a7c02f1a9bbc35473969618a09ee5f9f5d3e52d9,C++,10.0,10.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,e746adbfcfee15e9cfdb391ff746c765b99bdf9b,C++,1.0,0.0,1.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,ab51e5b813573dc9f51efa335aebcf2994125ee9,C++,12.0,12.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,3d89911481ba6ebe8c88c1c0b595412121e6c645,C++,4.0,3.0,1.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,dcc21c7bc972b10b6fb95c2fb0f4ab5a59680ec2,C++,6.0,5.0,1.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,0aaaae6eca5a7175a193696383f582f53adab23f,C++,29.0,22.0,7.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,6b5adc0877de832b2a7c189532dbbbc64622eeb6,C++,5.0,5.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,045deec1cbdebb27d817008ad5df94d96a08b1bf,C++,3.0,3.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,0a365c029e437be0349c31f8d4c9926b69fa3fa1,C++,3.0,3.0,0.0
+autor nulo,https://github.com/tensorflow/tensorflow,955059813cc325dc1db5e2daa6221271406d4439,C++,5.0,5.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,448a16182065bd08a202d9057dd8ca541e67996c,C++,18.0,18.0,0.0
+autor nulo,https://github.com/tensorflow/tensorflow,c99d98cd189839dcf51aee94e7437b54b31f8abd,C++,14.0,10.0,4.0
+smit-hinsu,https://github.com/tensorflow/tensorflow,e21af685e1828f7ca65038307df5cc06de4479e8,C++,12.0,7.0,5.0
+rubenwardy,https://github.com/minetest/minetest,b5956bde259faa240a81060ff4e598e25ad52dae,C++,17.0,15.0,2.0
+appgurueu,https://github.com/minetest/minetest,3693b6871eba268ecc79b3f52d00d3cefe761131,C++,20.0,13.0,7.0
+RudiDeVos,https://github.com/ultravnc/UltraVNC,36a31b37b98f70c1db0428f5ad83170d604fb352,C++,10.0,7.0,3.0
+tindy2013,https://github.com/tindy2013/subconverter,ce8d2bd0f13f05fcbd2ed90755d097f402393dd3,C++,29.0,17.0,12.0
+poulsbo,https://github.com/tensorflow/tensorflow,48305e8ffe5246d67570b64096a96f8e315a7281,C++,2.0,2.0,0.0
+poulsbo,https://github.com/tensorflow/tensorflow,098e7762d909bac47ce1dbabe6dfd06294cb9d58,C++,10.0,8.0,2.0
+poulsbo,https://github.com/tensorflow/tensorflow,290bb05c80c327ed74fae1d089f1001b1e2a4ef7,C++,4.0,4.0,0.0
+poulsbo,https://github.com/tensorflow/tensorflow,cff267650c6a1b266e4b4500f69fbc49cdd773c5,C++,2.0,2.0,0.0
+poulsbo,https://github.com/tensorflow/tensorflow,13d38a07ce9143e044aa737cfd7bb759d0e9b400,C++,3.0,3.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,20cb18724b0bf6c09071a3f53434c4eec53cc147,C++,6.0,4.0,2.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,84563f265f28b3c36a15335c8b005d405260e943,C++,2.0,2.0,0.0
+cantonios,https://github.com/tensorflow/tensorflow,237822b59fc504dda2c564787f5d3ad9c4aa62d9,C++,8.0,6.0,2.0
+cantonios,https://github.com/tensorflow/tensorflow,a5b89cd68c02329d793356bda85d079e9e69b4e7,C++,3.0,3.0,0.0
+mihaimaruseac,https://github.com/tensorflow/tensorflow,e57fd691c7b0fd00ea3bfe43444f30c1969748b5,C++,13.0,11.0,2.0
+sngyhan,https://github.com/tensorflow/tensorflow,a989426ee1346693cc015792f11d715f6944f2b8,C++,39.0,34.0,5.0
+autor nulo,https://github.com/Moddable-OpenSource/moddable,135aa9a4a6a9b49b60aa730ebc3bcc6247d75c45,C++,14.0,9.0,5.0
+K0R0L,https://github.com/ONLYOFFICE/core,b17d5e860f30e8be2caeb0022b63be4c76660178,C++,58.0,30.0,28.0
+albertodemichelis,https://github.com/albertodemichelis/squirrel,a6413aa690e0bdfef648c68693349a7b878fe60d,C++,1.0,1.0,0.0
+oldmud0,https://github.com/AttorneyOnline/akashi,5566cdfedddef1f219aee33477d9c9690bf2f78b,C++,4.0,2.0,2.0
+autor nulo,https://github.com/thorfdbg/libjpeg,ea6315164b1649ff932a396b7600eac4bffcfaba,C++,14.0,11.0,3.0
+autor nulo,https://github.com/thorfdbg/libjpeg,51c3241b6da39df30f016b63f43f31c4011222c7,C++,8.0,6.0,2.0
+sagamusix,https://github.com/milkytracker/MilkyTracker,3a5474f9102cbdc10fbd9e7b1b2c8d3f3f45d91b,C++,2.0,1.0,1.0
+sfan5,https://github.com/minetest/minetest,da71e86633d0b27cd02d7aac9fdac625d141ca13,C++,21.0,17.0,4.0

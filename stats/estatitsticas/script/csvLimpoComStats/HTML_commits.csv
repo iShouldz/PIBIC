@@ -1,0 +1,41 @@
+username,repositorio,hash,linguagem_programacao,LinhasTotais,LinhasAdicionadas,LinhasRemovidas
+rodnaph,https://github.com/rodnaph/sockso,fe2d895ea8eb8b8ccad5a3319f472e45d6ba5136,HTML,8.0,4.0,4.0
+scottgonzalez,https://github.com/jquery/jquery-ui,5fee6fd5000072ff32f2d65b6451f39af9e0e39e,HTML,2.0,1.0,1.0
+vjuranek,https://github.com/jenkinsci/jenkins,16931bd7bf7560e26ef98328b8e95e803d0e90f6,HTML,1.0,1.0,0.0
+siloraptor,https://github.com/mayan-edms/mayan-edms,398c480c10416d76e7c1dcb607e726e8fc988e72,HTML,88.0,42.0,46.0
+sidler,https://github.com/kajona/kajonacms,4a07f949c171da6aa9a6e6c19421b0df16297180,HTML,8.0,4.0,4.0
+xhezairbey,https://github.com/chyrp/chyrp,43d1b6b266363ae7545d5d49851034eaeec7bebb,HTML,6.0,3.0,3.0
+jiridostal,https://github.com/spacewalkproject/spacewalk,f3792c79c1c251a49cc4e382be8591636326a794,HTML,4.0,3.0,1.0
+ivywe,https://github.com/ivywe/geeklog-ivywe,41f4677e2eaa587b80eb9801150c1b402344c43d,HTML,4.0,2.0,2.0
+mbeccati,https://github.com/revive-adserver/revive-adserver,8d8c6df309ff5fde9dd4770abcd4ec5d2449b3ec,HTML,2.0,1.0,1.0
+samuelkong,https://github.com/liferay/liferay-portal,9435af4ef8a90b5333da925a5ec860a43d18c031,HTML,4.0,4.0,0.0
+soruly,https://github.com/soruly/whatanime.ga,c334dd8499a681587dd4199e90b0aa0eba814c1d,HTML,2.0,1.0,1.0
+christianpape,https://github.com/OpenNMS/opennms,8710463077c10034fcfa06556a98fb1a1a64fd0d,HTML,163.0,95.0,68.0
+autor nulo,https://github.com/rubygems/rubygems,66a28b9275551384fdab45f3591a82d6b59952cb,HTML,2.0,1.0,1.0
+daftspunk,https://github.com/rainlab/user-plugin,098c2bc907443d67e9e18645f850e3de42941d20,HTML,8.0,4.0,4.0
+rohitdatta,https://github.com/formspree/formspree,5f18eeaaa459bee9a58f70cdf7c46adb1ef34ea7,HTML,3.0,0.0,3.0
+petersirka,https://github.com/totaljs/cms,8b9d7dada998c08d172481d9f0fc0397c4b3c78d,HTML,4.0,4.0,0.0
+JC5,https://github.com/firefly-iii/firefly-iii,15d4d185bbedf2bb9db4a8fa2ccf9fc359a06194,HTML,2.0,1.0,1.0
+JC5,https://github.com/firefly-iii/firefly-iii,427de0594d05a8222f55b2894311e648ba1be991,HTML,44.0,22.0,22.0
+JC5,https://github.com/firefly-iii/firefly-iii,3ad4e04e2ae50e60564b60b68dfac083e5684882,HTML,4.0,2.0,2.0
+JC5,https://github.com/firefly-iii/firefly-iii,2ddf48f15cbdbb475221c299872420f625c3bc3f,HTML,6.0,3.0,3.0
+aaron-costello,https://github.com/ether/etherpad-lite,5879037ddca4ab9a4002adf90fc7ce6c9f82f01b,HTML,4.0,3.0,1.0
+autor nulo,https://github.com/nginx/nginx,c1be55f97211d38b69ac0c2027e6812ab8b1b94e,HTML,6.0,6.0,0.0
+jmrozanec,https://github.com/jmrozanec/cron-utils,4cf373f7352f5d95f0bf6512af8af326b31c835e,HTML,7.0,4.0,3.0
+NeuroAssassin,https://github.com/Cog-Creators/Red-Dashboard,99d88b840674674166ce005b784ae8e31e955ab1,HTML,8.0,6.0,2.0
+NeuroAssassin,https://github.com/Cog-Creators/Red-Dashboard,a6b9785338003ec87fb75305e7d1cc2d40c7ab91,HTML,57.0,41.0,16.0
+ffdixon,https://github.com/bigbluebutton/bigbluebutton,d0bc77c3dbd858295004f15d7a57ec35e6b203d6,HTML,2.0,1.0,1.0
+ohader,https://github.com/benjaminkott/bootstrap_package,de3a568fc311d6712d9339643e51e8627c80530b,HTML,26.0,13.0,13.0
+mgesing,https://github.com/smartstore/SmartStoreNET,5b4e60ae7124df0898975cb8f994f9f23db1fae3,HTML,3.0,2.0,1.0
+autor nulo,https://github.com/smartstore/SmartStoreNET,ae03d45e23734555a2aef0b0c3d33c21e076c20f,HTML,26.0,14.0,12.0
+andersk,https://github.com/zulip/zulip,3eb2791c3e9695f7d37ffe84e0c2184fae665cb6,HTML,2.0,1.0,1.0
+noobpk,https://github.com/django-helpdesk/django-helpdesk,2c7065e0c4296e0c692fb4a7ee19c7357583af30,HTML,8.0,6.0,2.0
+JC5,https://github.com/firefly-iii/firefly-iii,03a1601bf343181df9f405dd2109aec483cb7053,HTML,9.0,5.0,4.0
+Zales0123,https://github.com/Sylius/PayPalPlugin,2adc46be2764ccee22b4247139b8056fb8d1afff,HTML,46.0,33.0,13.0
+OzzieIsaacs,https://github.com/janeczku/calibre-web,6bf07539788004513c3692c074ebc7ba4ce005e1,HTML,204.0,95.0,109.0
+r0hanSH,https://github.com/hakimel/reveal.js,32cdd3b1872ba8e2267c9e87ae216cb55f40f4d2,HTML,4.0,4.0,0.0
+autor nulo,https://github.com/HabitRPG/habitica,5bcfdbe066e8c899f3ecf3fdcdbacc2ecba7f02f,HTML,4.0,2.0,2.0
+gregkh,https://github.com/gregkh/usbview,bf374fa4e5b9a756789dfd88efa93806a395463b,HTML,4.0,2.0,2.0
+benbusby,https://github.com/benbusby/whoogle-search,abc30d7da3b5c67be7ce84d4699f327442d44606,HTML,2.0,1.0,1.0
+tmortagne,https://github.com/xwiki/xwiki-platform,21906acb5ee2304552f56f9bbdbf8e7d368f7f3a,HTML,4.0,2.0,2.0
+thinkst-marco,https://github.com/thinkst/canarytokens,dc378957bc28a6f3b5a8d7217b0605d81111f090,HTML,4.0,2.0,2.0

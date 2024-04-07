@@ -1,0 +1,3 @@
+username,repositorio,hash,linguagem_programacao,LinhasTotais,LinhasAdicionadas,LinhasRemovidas
+weiss,https://github.com/processone/ejabberd,7bdc1151b11d26d33649c5cce2817b74a4f231a8,Erlang,4.0,2.0,2.0
+autor nulo,https://github.com/klacke/yaws,9d8fb070e782c95821c90d0ca7372fc6d7316c78,Erlang,14.0,12.0,2.0

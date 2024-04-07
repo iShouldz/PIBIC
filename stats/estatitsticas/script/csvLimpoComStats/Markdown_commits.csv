@@ -1,0 +1,59 @@
+username,repositorio,hash,linguagem_programacao,LinhasTotais,LinhasAdicionadas,LinhasRemovidas
+Synchro,https://github.com/PHPMailer/PHPMailer,8beacc646acb67c995aea10ac5585970efc7355a,Markdown,8.0,8.0,0.0
+yunosh,https://github.com/horde/horde,08c699f744b6d2be1a5f3a2ba7203f4631b4c5dc,Markdown,28.0,14.0,14.0
+autor nulo,https://github.com/markevans/dragonfly,a8775aacf9e5c81cf11bec34b7afa7f27ddfe277,Markdown,2.0,2.0,0.0
+lem9,https://github.com/phpmyadmin/phpmyadmin,66fe475d4f51b1761719cb0cab360748800373f7,Markdown,2.0,2.0,0.0
+brookinsconsulting,https://github.com/brookinsconsulting/bccie,d11811baccf265ff567dddca03cac70b65838a4f,Markdown,11.0,7.0,4.0
+zoulasc,https://github.com/file/file,69a5a43b3b71f53b0577f41264a073f495799610,Markdown,5.0,5.0,0.0
+chipx86,https://github.com/djblets/djblets,50000d0bbb983fa8c097b588d06b64df8df483bd,Markdown,4.0,4.0,0.0
+chipx86,https://github.com/djblets/djblets,e2c79117efd925636acd871a5f473512602243cf,Markdown,4.0,4.0,0.0
+olavmo-sikt,https://github.com/UNINETT/mod_auth_mellon,0f5b4fd860fa7e3a6c47201637aab05395f32647,Markdown,14.0,14.0,0.0
+madler,https://github.com/madler/pigz,fdad1406b3ec809f4954ff7cdf9e99eb18c2458f,Markdown,37.0,23.0,14.0
+c-schmitz,https://github.com/LimeSurvey/LimeSurvey,e15861a65b7028adfc23ef6af8563f645e318548,Markdown,29.0,29.0,0.0
+error ao obter,https://gitlab.com/cryptsetup/cryptsetup,ef8a7d82d8d3716ae9b58179590f7908981fa0cb,Markdown,,,
+noloader,https://github.com/weidai11/cryptopp,553049ba297d89d9e8fbf2204acb40a8a53f5cd6,Markdown,38.0,29.0,9.0
+autor nulo,https://github.com/torvalds/linux,9de4ee40547fd315d4a0ed1dd15a2fa3559ad707,Markdown,2.0,1.0,1.0
+infrastation,https://github.com/the-tcpdump-group/tcpdump,ad7c25bc0decf96dc7768c9e903734d38528b1bd,Markdown,1.0,1.0,0.0
+autor nulo,https://github.com/torvalds/linux,8f3fafc9c2f0ece10832c25f7ffcb07c97a32ad4,Markdown,2.0,1.0,1.0
+Yoha-test,https://github.com/torvalds/linux,e4f3aa2e1e67bb48dfbaaf1cad59013d5a5bc276,Markdown,2.0,1.0,1.0
+3rd-Eden,https://github.com/unshiftio/url-parse,d7b582ec1243e8024e60ac0b62d2569c939ef5de,Markdown,47.0,47.0,0.0
+KingYes,https://github.com/pojome/activity-log,e7bcd12fcb0add82bed762a971f427a360664bd9,Markdown,6.0,6.0,0.0
+minrk,https://github.com/jupyter/notebook,d65328d4841892b412aef9015165db1eb029a8ed,Markdown,4.0,2.0,2.0
+error ao obter,https://bitbucket.org/tildeslash/monit,1a8295eab6815072a18019b668fe084945b751f3,Markdown,,,
+rockdaboot,https://gitlab.com/libidn/libidn2,614117ef6e4c60e1950d742e3edf0a0ef8d389de,Markdown,8.0,8.0,0.0
+mikedingjan,https://github.com/labd/wagtail-2fa,13b12995d35b566df08a17257a23863ab6efb0ca,Markdown,8.0,8.0,0.0
+pamil,https://github.com/Sylius/Sylius,be245302dfc594d8690fe50dd47631d186aa945f,Markdown,17.0,17.0,0.0
+jimharris,https://github.com/spdk/spdk,eca42c66092b9031711afe215fbc1891ee55f143,Markdown,7.0,7.0,0.0
+rra,https://github.com/rra/pam-krb5,e7879e27a37119fad4faf133a9f70bdcdc75d760,Markdown,1.0,1.0,0.0
+The-Compiler,https://github.com/qutebrowser/qutebrowser,1b7946ed14b386a24db050f2d6dba81ba6518755,Markdown,11.0,10.0,1.0
+hutchic,https://github.com/Kong/docs.konghq.com,d693827c32144943a2f45abc017c1321b33ff611,Markdown,12.0,6.0,6.0
+AntonKueltz,https://github.com/AntonKueltz/fastecdsa,4a16daeaf139be20654ef58a9fe4c79dc030458c,Markdown,4.0,2.0,2.0
+akallabeth,https://github.com/FreeRDP/FreeRDP,8fb6336a4072abcee8ce5bd6ae91104628c7bb69,Markdown,18.0,18.0,0.0
+thinkpanzer,https://github.com/google/exposure-notifications-internals,8f751a666697c3cae0a56ae3464c2c6cbe31b69e,Markdown,21.0,18.0,3.0
+MichaelMraka,https://github.com/spacewalkproject/spacewalk,74e28ec61d916c42061ef4347121650a1c962b0c,Markdown,13.0,13.0,0.0
+cowtowncoder,https://github.com/FasterXML/jackson-databind,ad5a630174f08d279504bc51ebba8772fd71b86b,Markdown,2.0,1.0,1.0
+ekpyron,https://github.com/ethereum/solidity,c39a5e2b7a3fabbf687f53a2823fc087be6c1a7e,Markdown,2.0,1.0,1.0
+jech,https://github.com/jech/polipo,4d42ca1b5849518762d110f34b6ce2e03d6df9ec,Markdown,10.0,3.0,7.0
+autor nulo,https://github.com/nystudio107/craft-seomatic,65ab659cb6c914c7ad671af1e417c0da2431f79b,Markdown,3.0,3.0,0.0
+khalwat,https://github.com/nystudio107/craft-seomatic,a1c2cad7e126132d2442ec8ec8e9ab43df02cc0f,Markdown,2.0,1.0,1.0
+sporkmonger,https://github.com/sporkmonger/addressable,0d8a3127e35886ce9284810a7f2438bff6b43cbc,Markdown,1.0,1.0,0.0
+ErisDS,https://github.com/TryGhost/express-hbs,ff6fad6e357699412d4e916273314e5e7af1500e,Markdown,4.0,4.0,0.0
+UziTech,https://github.com/express-handlebars/express-handlebars,78c47a235c4ad7bc2674bddd8ec2721567ed8c72,Markdown,3.0,3.0,0.0
+tbeu,https://github.com/google/oss-fuzz-vulns,37b781ace1b4228fc36483bb7e30c72ea9d4c3d6,Markdown,1.0,1.0,0.0
+martin-frbg,https://github.com/xianyi/OpenBLAS,2be5ee3cca97a597f2ee2118808a2d5eacea050c,Markdown,2.0,1.0,1.0
+martin-frbg,https://github.com/xianyi/OpenBLAS,337b65133df174796794871b3988cd03426e6d41,Markdown,2.0,1.0,1.0
+martin-frbg,https://github.com/xianyi/OpenBLAS,ddb0ff5353637bb5f5ad060c9620e334c143e3d7,Markdown,2.0,1.0,1.0
+martin-frbg,https://github.com/xianyi/OpenBLAS,fe497efa0510466fd93578aaf9da1ad8ed4edbe7,Markdown,2.0,1.0,1.0
+V-B,https://github.com/surveysolutions/surveysolutions,99e7e8345cb98f2eda08e37976e3d3aeb49971c9,Markdown,2.0,1.0,1.0
+vbatts,https://github.com/opencontainers/distribution-spec,ac28cac0557bcd3084714ab09f9f2356fe504923,Markdown,15.0,13.0,2.0
+noahmoss,https://github.com/metabase/metabase,042a36e49574c749f944e19cf80360fd3dc322f0,Markdown,35.0,23.0,12.0
+deivid-rodriguez,https://github.com/rubygems/rubygems,0fad1ccfe9dd7a3c5b82c1496df3c2b4842870d3,Markdown,29.0,29.0,0.0
+tolzhabayev,https://github.com/grafana/grafana,fd48aee61e4328aae8d5303a9efd045fa0ca308d,Markdown,40.0,38.0,2.0
+adiroiban,https://github.com/twisted/twisted,89c395ee794e85a9657b112c4351417850330ef9,Markdown,4.0,2.0,2.0
+Sant268,https://github.com/Sant268/CVE-2022-22851,17381378bdb7c9f7b3326af6fb79cf68ca9f9d3d,Markdown,19.0,19.0,0.0
+monitorjbl,https://github.com/monitorjbl/excel-streaming-reader,0749c7b9709db078ccdeada16d46a34bc2910c73,Markdown,8.0,6.0,2.0
+davidlehn,https://github.com/digitalbazaar/forge,bb822c02df0b61211836472e29b9790cc541cdb2,Markdown,6.0,6.0,0.0
+abhinavdangeti,https://github.com/blevesearch/bleve,1c7509d6a17d36f265c90b4e8f4e3a3182fe79ff,Markdown,10.0,6.0,4.0
+vcunat,https://github.com/CZ-NIC/knot-resolver,ccb9d9794db5eb757c33becf65cb1cf48ecfd968,Markdown,14.0,14.0,0.0
+tsenger,https://github.com/BSI-Bund/de.fac2,d3c93c620850183d83ba9a0f5944d44a2ee30250,Markdown,9.0,4.0,5.0
+cwperks,https://github.com/opensearch-project/security,7eaaafec2939d7db23a02ffca9cc68e0343de246,Markdown,16.0,14.0,2.0

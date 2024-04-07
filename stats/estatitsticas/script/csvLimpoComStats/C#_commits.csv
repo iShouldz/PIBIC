@@ -1,0 +1,26 @@
+username,repositorio,hash,linguagem_programacao,LinhasTotais,LinhasAdicionadas,LinhasRemovidas
+gonzalop,https://github.com/mono/mono,d16d4623edb210635bec3ca3786481b82cde25a2,C#,2.0,1.0,1.0
+serac,https://github.com/Jasig/dotnet-cas-client,f0e030014fb7a39e5f38469f43199dc590fd0e8d,C#,2.0,1.0,1.0
+spouliot,https://github.com/mono/mono,b371da6b2d68b4cdd0f21d6342af6c42794f998b,C#,169.0,1.0,168.0
+Shazwazza,https://github.com/umbraco/Umbraco-CMS,924a016ffe7ae7ea6d516c07a7852f0095eddbce,C#,4.0,3.0,1.0
+autor nulo,https://github.com/recurly/recurly-client-net,9eef460c0084afd5c24d66220c8b7a381cf9a1f1,C#,104.0,52.0,52.0
+ElijahFowler,https://github.com/i7MEDIA/mojoportal,5ea8129f74c80cbf1f68b9083c745cc8a685485d,C#,9.0,5.0,4.0
+nul800sebastiaan,https://github.com/umbraco/Umbraco-CMS,fe2b86b681455ac975b294652064b2718d4e2ba2,C#,4.0,2.0,2.0
+nul800sebastiaan,https://github.com/umbraco/Umbraco-CMS,5dde2efe0d2b3a47d17439e03acabb7ea2befb64,C#,6.0,4.0,2.0
+mythz,https://github.com/ServiceStack/ServiceStack,a0e0d7de20f5d1712f1793f925496def4383c610,C#,5.0,3.0,2.0
+rxtur,https://github.com/blogifierdotnet/Blogifier,3e2ae11f6be8aab82128f223c2916fab5a408be5,C#,49.0,39.0,10.0
+mganss,https://github.com/mganss/HtmlSanitizer,a3a7602a44d4155d51ec0fbbedc2a49e9c7e2eb8,C#,15.0,14.0,1.0
+muratcakir,https://github.com/smartstore/SmartStoreNET,8702c6140f4fc91956ef35dba12d24492fb3f768,C#,21.0,17.0,4.0
+mythz,https://github.com/ServiceStack/ServiceStack,540d4060e877a03ae95343c1a8560a26768585ee,C#,6.0,6.0,0.0
+mgesing,https://github.com/smartstore/SmartStoreNET,5ab1e37dc8d6415d04354e1a116f3d82e9555f5c,C#,5.0,5.0,0.0
+AndersAbel,https://github.com/Sustainsys/Saml2,e58e0a1aff2b1ead6aca080b7cdced55ee6d5241,C#,90.0,55.0,35.0
+turquoiseowl,https://github.com/turquoiseowl/i18n,c418e3345313dc896c1951d8c46ab0b9b12fcbd3,C#,9.0,7.0,2.0
+joshuaboniface,https://github.com/jellyfin/jellyfin,0183ef8e89195f420c48d2600bc0b72f6d3a7fd7,C#,70.0,61.0,9.0
+trung-tran-sts,https://github.com/trannamtrung1st/elFinder.Net.Core,5498c8a86b76ef089cfbd7ef8be014b61fa11c73,C#,219.0,179.0,40.0
+mguinness,https://github.com/mguinness/elFinder.AspNet,675049b39284a9e84f0915c71d688da8ebc7d720,C#,16.0,16.0,0.0
+kennethmyhra,https://github.com/FirelyTeam/spark,9c79320059f92d8aa4fbd6cc4fa8f9d5d6ba9941,C#,36.0,28.0,8.0
+JustArchi,https://github.com/JustArchiNET/ArchiSteamFarm,4cd581ec041912cf199c5512fe6d1dcaec0594c0,C#,26.0,24.0,2.0
+piksel,https://github.com/icsharpcode/SharpZipLib,5c3b293de5d65b108e7f2cd0ea8f81c1b8273f78,C#,3.0,2.0,1.0
+sebastienros,https://github.com/orchardcms/orchardcore,b7096af1028d8f909f63dd076d1bbd573913a92d,C#,166.0,118.0,48.0
+skoshelev,https://github.com/nopSolutions/nopCommerce,47ff9a241243db9359f10216bcf401baaa36d0b4,C#,2.0,2.0,0.0
+drieseng,https://github.com/sshnet/SSH.NET,03c6d60736b8f7b42e44d6989a53f9b644a091fb,C#,4.0,1.0,3.0

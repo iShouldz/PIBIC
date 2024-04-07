@@ -1,0 +1,9 @@
+username,repositorio,hash,linguagem_programacao,LinhasTotais,LinhasAdicionadas,LinhasRemovidas
+creshal,https://github.com/axkibe/lsyncd,18f02ad013b41a72753912155ae2ba72f2a53e52,Lua,8.0,5.0,3.0
+autor nulo,https://github.com/axkibe/lsyncd,e6016b3748370878778b8f0b568d5281cc248aa4,Lua,12.0,7.0,5.0
+smalyshev,https://github.com/php/php-src,6c5211a0cef0cc2854eaa387e0eb036e012904d0,Lua,92.0,50.0,42.0
+radare,https://github.com/radare/radare2,bd276ef2fd8ac3401e65be7c126a43175ccfbcd7,Lua,16.0,11.0,5.0
+radare,https://github.com/radareorg/radare2,d37d2b858ac47f2f108034be0bcecadaddfbc8b3,Lua,6.0,5.0,1.0
+wiiaboo,https://github.com/mpv-player/mpv,e6e6b0dcc7e9b0dbf35154a179b3dc1fcfcaff43,Lua,54.0,47.0,7.0
+jow-,https://github.com/openwrt/luci,9e4b8a91384562e3baee724a52b72e30b1aa006d,Lua,4.0,2.0,2.0
+jow-,https://github.com/openwrt/luci,f8c6eb67cd9da09ee20248fec6ab742069635e47,Lua,8.0,6.0,2.0

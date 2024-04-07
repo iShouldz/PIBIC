@@ -1,0 +1,11 @@
+username,repositorio,hash,linguagem_programacao,LinhasTotais,LinhasAdicionadas,LinhasRemovidas
+mayeut,https://github.com/uclouvain/openjpeg,940100c28ae28931722290794889cf84a92c5f6f,SQL,8.0,4.0,4.0
+eapache,https://github.com/wireshark/wireshark,7d7190695ce2ff269fdffb04e87139995cde21f4,SQL,8.0,4.0,4.0
+rouault,https://github.com/uclouvain/openjpeg,c535531f03369623b9b833ef41952c62257b507e,SQL,25.0,24.0,1.0
+rouault,https://github.com/uclouvain/openjpeg,4241ae6fbbf1de9658764a80944dc8108f2b4154,SQL,14.0,10.0,4.0
+rouault,https://github.com/uclouvain/openjpeg,dcac91b8c72f743bda7dbfa9032356bc8110098a,SQL,25.0,20.0,5.0
+ibennetch,https://github.com/phpmyadmin/phpmyadmin,7d21d4223bdbe0306593309132b4263d7087d13b,SQL,2.0,2.0,0.0
+peter-mw,https://github.com/microweber/microweber,269320e0e0e06a1785e1a1556da769a34280b7e6,SQL,1.0,0.0,1.0
+mirabilos,https://github.com/wbx-github/uclibc-ng,0f822af0445e5348ce7b7bd8ce1204244f31d174,SQL,64.0,62.0,2.0
+coderpatros,https://github.com/CycloneDX/cyclonedx-bom-repo-server,001a3278b5572e52c0ecac0bd1157bf2599502b7,SQL,2.0,1.0,1.0
+andreaskienast,https://github.com/TYPO3/typo3,da611775f92102d7602713003f4c79606c8a445d,SQL,2.0,1.0,1.0

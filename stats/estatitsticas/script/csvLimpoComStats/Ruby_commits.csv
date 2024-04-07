@@ -1,0 +1,163 @@
+username,repositorio,hash,linguagem_programacao,LinhasTotais,LinhasAdicionadas,LinhasRemovidas
+tenderlove,https://github.com/rails/rails,8a39f411dc3c806422785b1f4d5c7c9d58e4bf85,Ruby,23.0,20.0,3.0
+tenderlove,https://github.com/rails/rails,586a944ddd4d03e66dea1093306147594748037a,Ruby,9.0,8.0,1.0
+tenderlove,https://github.com/rails/rails,bfc432574d0b141fd7fe759edfe9b6771dd306bd,Ruby,9.0,8.0,1.0
+coolo,https://github.com/openSUSE/open-build-service,cbfe2ed36dd77c0843702935dea7f914bb599201,Ruby,18.0,15.0,3.0
+adrianschroeter,https://github.com/openSUSE/open-build-service,5281e4bff9df31f1f91e22a0d1e9086b93b23d7e,Ruby,57.0,40.0,17.0
+coderanger,https://github.com/opscode/chef,a4ea6edab2fecb922f999cffb0daa04eeeec7a26,Ruby,32.0,31.0,1.0
+btm,https://github.com/opscode/chef,33f0e9c58bbf047e1b401a834f3abfe72d9a8947,Ruby,14.0,7.0,7.0
+autor nulo,https://github.com/mikel/mail,29aca25218e4c82991400eb9b0c933626aefc98f,Ruby,19.0,17.0,2.0
+autor nulo,https://github.com/mikel/mail,39b590ddb08f90ddbe445837359a2c8843e533d0,Ruby,6.0,3.0,3.0
+nicklewis,https://github.com/puppetlabs/puppet,ab9150baa1b738467a33b01df1d90e076253fbbd,Ruby,37.0,32.0,5.0
+pcarlisle,https://github.com/puppetlabs/puppet,10f6cb8969b4d5a933b333ecb01ce3696b1d57d4,Ruby,113.0,79.0,34.0
+pcarlisle,https://github.com/puppetlabs/puppet,d80478208d79a3e6d6cb1fbc525e24817fe8c4c6,Ruby,47.0,41.0,6.0
+pcarlisle,https://github.com/puppetlabs/puppet,fd44bf5e6d0d360f6a493d663b653c121fa83c3f,Ruby,8.0,4.0,4.0
+pcarlisle,https://github.com/puppetlabs/puppet,f3419620b42080dad3b0be14470b20a972f13c50,Ruby,98.0,87.0,11.0
+calfonso,https://github.com/openshift/origin-server,1ad0d1d792395306b59a34ad7b6e7e89a35d041e,Ruby,5.0,5.0,0.0
+abenari,https://github.com/theforeman/foreman,387b764b614170f23b3552aca498612e341652db,Ruby,17.0,10.0,7.0
+autor nulo,https://github.com/rack/rack,f95113402b7239f225282806673e1b6424522b18,Ruby,66.0,63.0,3.0
+raggi,https://github.com/rack/rack,6f237e4c9fab649d3750482514f0fde76c56ab30,Ruby,17.0,6.0,11.0
+raggi,https://github.com/rack/rack,0cd7e9aa397f8ebb3b8481d67dbac8b4863a7f07,Ruby,2.0,1.0,1.0
+raggi,https://github.com/rack/rack,9a81b961457805f6d1a5c275d053068440421e11,Ruby,17.0,17.0,0.0
+jnunemaker,https://github.com/jnunemaker/crack,e3da1212a1f84a898ee3601336d1dbbf118fb5f6,Ruby,31.0,11.0,20.0
+LBRapid,https://github.com/spree/spree_auth_devise,038d74771d3b5c13d13b738b73dfda1033a99f65,Ruby,48.0,47.0,1.0
+adrianschroeter,https://github.com/openSUSE/open-build-service,06ad7fdbdd7eb2fef8947d14c4cdd00d8f6387b1,Ruby,82.0,79.0,3.0
+error ao obter,https://github.com/rcook/rgpg,b819b13d198495f3ecd2762a0dbe27bb6fae3505,Ruby,,,
+tigrish,https://github.com/svenfuchs/i18n,92b57b1e4f84adcdcc3a375278f299274be62445,Ruby,38.0,32.0,6.0
+steveyken,https://github.com/fatfreecrm/fat_free_crm,93c182dd4c6f3620b721d2a15ba6a6ecab5669df,Ruby,32.0,28.0,4.0
+steveyken,https://github.com/fatfreecrm/fat_free_crm,a7fedbb36388bad0c0f32b2346481e0ea126dea6,Ruby,2.0,2.0,0.0
+steveyken,https://github.com/fatfreecrm/fat_free_crm,cf26a04b356ad2161c4c6160260eb870a3de5328,Ruby,33.0,27.0,6.0
+steveyken,https://github.com/fatfreecrm/fat_free_crm,078035f1ef73ed85285ac9d128c3c5f670cef066,Ruby,96.0,75.0,21.0
+steveyken,https://github.com/fatfreecrm/fat_free_crm,d4b2de81a4d8c1b201482edcb2488ed9280a65fd,Ruby,16.0,10.0,6.0
+autor nulo,https://github.com/ruby-ldap/ruby-net-ldap,b412ca05f6b430eaa1ce97ac95885b4cf187b04a,Ruby,2.0,1.0,1.0
+Fryguy,https://github.com/ManageIQ/awesome_spawn,e524f85f1c6e292ef7d117d7818521307ac269ff,Ruby,267.0,150.0,117.0
+mscherer,https://github.com/github/hub,016ec99d25b1cb83cb4367e541177aa431beb600,Ruby,6.0,1.0,5.0
+hennevogel,https://github.com/openSUSE/open-build-service,2188c059b67b82171d0e28ef59f77e62d22a09d8,Ruby,10.0,10.0,0.0
+jplang,https://github.com/redmine/redmine,7567c3d8b21fe67e5f04e6839c1fce061600f2f3,Ruby,12.0,9.0,3.0
+steveyken,https://github.com/fatfreecrm/fat_free_crm,95464495f1e3e714d5c295fe621af5d2e0d4238d,Ruby,2.0,1.0,1.0
+dometto,https://github.com/gollum/grit_adapter,4520d973c81fecfebbeacd2ef2f1849d763951c7,Ruby,3.0,3.0,0.0
+dcramer,https://github.com/getsentry/raven-ruby,477ee93a3f735be33bc1e726820654cdf6e22d8f,Ruby,9.0,5.0,4.0
+saneki,https://github.com/rsantamaria/papercrop,b4ecd95debaf0a8712bd1d34def83f41fc6b3579,Ruby,15.0,10.0,5.0
+autor nulo,https://github.com/sysphonic/thetis,4ca3f5f486759660b87d7c146f1fdc11264f56eb,Ruby,94.0,61.0,33.0
+autor nulo,https://github.com/sysphonic/thetis,842e44f0c2bd7d680430bb89a3bb78fd744961f9,Ruby,723.0,552.0,171.0
+autor nulo,https://github.com/sysphonic/thetis,a61dc72035c7ae0b06f6d7dc8b2a848ffc7db277,Ruby,8.0,4.0,4.0
+autor nulo,https://github.com/sysphonic/thetis,d9ed965075634ca1a095b480b459c68445ce951d,Ruby,7.0,6.0,1.0
+durran,https://github.com/mongodb/bson-ruby,976da329ff03ecdfca3030eb6efe3c85e6db9999,Ruby,2.0,1.0,1.0
+durran,https://github.com/mongodb/bson-ruby,fef6f75413511d653c76bf924a932374a183a24f,Ruby,590.0,581.0,9.0
+Bramjetten,https://github.com/denkGroot/Spina,bfe44f289e336f80b6593032679300c493735e75,Ruby,2.0,2.0,0.0
+miketanderson,https://github.com/Snorby/snorby,89d7cbcd3697c8a842f1a61b99e9a78f295798fb,Ruby,4.0,2.0,2.0
+nacl-anno,https://github.com/NaCl-Ltd/pref-shimane-cms,ab96ec7661f15a0129940eed9215c91f1acbf564,Ruby,8.0,2.0,6.0
+bartkamphorst,https://github.com/gollum/gollum,ce68a88293ce3b18c261312392ad33a88bb69ea1,Ruby,1.0,1.0,0.0
+flori,https://github.com/quadule/colorscore,570b5e854cecddd44d2047c44126aed951b61718,Ruby,4.0,3.0,1.0
+rafaelfranca,https://github.com/rails/rails-html-sanitizer,297161e29a3e11186ce4c02bf7defc088bf544d4,Ruby,65.0,55.0,10.0
+rafaelfranca,https://github.com/rails/rails-html-sanitizer,49dfc1584c5b8e35a4ffabf8356ba3df025e8d3f,Ruby,60.0,50.0,10.0
+tenderlove,https://github.com/rails/rails-html-sanitizer,63903b0eaa6d2a4e1c91bc86008256c4c8335e78,Ruby,17.0,16.0,1.0
+jplang,https://github.com/redmine/redmine,c096dde88ff02872ba35edc4dc403c80a7867b5c,Ruby,2.0,1.0,1.0
+jplang,https://github.com/redmine/redmine,032f2c9be6520d9d1a1608aa4f1d5d1f184f2472,Ruby,45.0,36.0,9.0
+jplang,https://github.com/redmine/redmine,7e423fb4538247d59e01958c48b491f196a1de56,Ruby,44.0,42.0,2.0
+ConradIrwin,https://github.com/mikel/mail,72befdc4dab3e6e288ce226a7da2aa474cf5be83,Ruby,47.0,24.0,23.0
+ondrejmular,https://github.com/ClusterLabs/pcs,b9e7f061788c3b86a0c67d2d4158f067ec5eb625,Ruby,39.0,22.0,17.0
+tomjelinek,https://github.com/ClusterLabs/pcs,bc6ad9086857559db57f4e3e6de66762291c0774,Ruby,1015.0,525.0,490.0
+mshibuya,https://github.com/sferik/rails_admin,b13e879eb93b661204e9fb5e55f7afa4f397537a,Ruby,15.0,15.0,0.0
+iNecas,https://github.com/svenfuchs/safemode,0f764a1720a3a68fd2842e21377c8bfad6d7126f,Ruby,8.0,4.0,4.0
+iNecas,https://github.com/theforeman/foreman,82f9b93c54f72c5814df6bab7fad057eab65b2f2,Ruby,2.0,1.0,1.0
+lzap,https://github.com/theforeman/smart-proxy,eef532aa668d656b9d61d9c6edf7c2505f3f43c7,Ruby,16.0,14.0,2.0
+ares,https://github.com/theforeman/foreman,0f35fe14acf0d0d3b55e9337bc5e2b9640ff2372,Ruby,2.0,1.0,1.0
+segiddins,https://github.com/rubygems/rubygems,ad5c0a53a86ca5b218c7976765c0365b91d22cb2,Ruby,27.0,27.0,0.0
+segiddins,https://github.com/rubygems/rubygems,8d91516fb7037ecfb27622f605dc40245e0f8d32,Ruby,17.0,16.0,1.0
+jtdowney,https://github.com/jtdowney/private_address_check,58a0d7fe31de339c0117160567a5b33ad82b46af,Ruby,6.0,6.0,0.0
+bhelx,https://github.com/recurly/recurly-client-ruby,1bb0284d6e668b8b3d31167790ed6db1f6ccc4be,Ruby,12.0,10.0,2.0
+cyu,https://github.com/cyu/rack-cors,42ebe6caa8e85ffa9c8a171bda668ba1acc7a5e6,Ruby,2.0,1.0,1.0
+dhensby,https://github.com/silverstripe/silverstripe-installer,c25478bef75cc5482852e80a1fa6f1f0e6460e39,Ruby,2.0,1.0,1.0
+jplang,https://github.com/redmine/redmine,94f7cfbf990028348b9262578acbc53a94fce448,Ruby,3.0,2.0,1.0
+jplang,https://github.com/redmine/redmine,56c8ee0440d8555aa7822d947ba9091c8a791508,Ruby,3.0,2.0,1.0
+jplang,https://github.com/redmine/redmine,1a0976417975a128b0a932ba1552c37e9414953b,Ruby,4.0,3.0,1.0
+jplang,https://github.com/redmine/redmine,273dd9cb3bcfb1e0a0b90570b3b34eafa07d67aa,Ruby,4.0,3.0,1.0
+sonots,https://github.com/geminabox/geminabox,f8429a9e364658459add170e4ebc7a5d3b4759e7,Ruby,13.0,11.0,2.0
+jplang,https://github.com/redmine/redmine,0f09f161f64f4190a52166675ff380a15b72a8bc,Ruby,24.0,23.0,1.0
+lsegal,https://github.com/lsegal/yard,b0217b3e30dc53d057b1682506333335975e62b4,Ruby,8.0,5.0,3.0
+marutosi,https://github.com/redmine/redmine,58ed8655136ff2fe5ff7796859bf6a399c76c678,Ruby,10.0,5.0,5.0
+marutosi,https://github.com/redmine/redmine,9d797400eaec5f9fa7ba9507c82d9c18cb91d02e,Ruby,39.0,20.0,19.0
+marutosi,https://github.com/redmine/redmine,ca87bf766cdc70179cb2dce03015d78ec9c13ebd,Ruby,34.0,34.0,0.0
+MikaelSmith,https://github.com/puppetlabs/mcollective-sshkey-security,3388a3109f4fb1c69fa8505e991bf59ca20d19a2,Ruby,39.0,29.0,10.0
+autor nulo,https://github.com/rubygems/rubygems,1b931fc03b819b9a0214be3eaca844ef534175e2,Ruby,2.0,2.0,0.0
+autor nulo,https://github.com/rubygems/rubygems,254e3d0ee873c008c0b74e8b8abcbdab4caa0a6d,Ruby,30.0,29.0,1.0
+segiddins,https://github.com/rubygems/rubygems,92e98bf8f810bd812f919120d4832df51bc25d83,Ruby,43.0,34.0,9.0
+segiddins,https://github.com/rubygems/rubygems,f5042b879259b1f1ce95a0c5082622c646376693,Ruby,40.0,39.0,1.0
+autor nulo,https://github.com/rubygems/rubygems,feadefc2d351dcb95d6492f5ad17ebca546eb964,Ruby,28.0,24.0,4.0
+segiddins,https://github.com/rubygems/rubygems,666ef793cad42eed96f7aee1cdf77865db921099,Ruby,35.0,29.0,6.0
+autor nulo,https://github.com/rubygems/rubygems,f83f911e19e27cbac1ccce7471d96642241dd759,Ruby,2.0,1.0,1.0
+jeltz,https://github.com/sinatra/sinatra,8aa6c42ef724f93ae309fb7c5668e19ad547eceb,Ruby,9.0,7.0,2.0
+larskanis,https://github.com/ffi/ffi,09e0c6076466b4383da7fa4e13f714311109945a,Ruby,2.0,1.0,1.0
+larskanis,https://github.com/ffi/ffi,e0fe486df0e117ed67b0282b6ada04b7214ca05c,Ruby,4.0,1.0,3.0
+namusyaka,https://github.com/sinatra/sinatra,12786867d6faaceaec62c7c2cb5b0e2dc074d71a,Ruby,2.0,1.0,1.0
+marcus-h,https://github.com/openSUSE/open-build-service,f57b660f49f830006766a8d4abc3b4af6e178063,Ruby,7.0,5.0,2.0
+autor nulo,https://github.com/fatfreecrm/fat_free_crm,6d60bc8ed010c4eda05d6645c64849f415f68d65,Ruby,2.0,1.0,1.0
+rgrove,https://github.com/rgrove/sanitize,01629a162e448a83d901456d0ba8b65f3b03d46e,Ruby,169.0,149.0,20.0
+rafaelfranca,https://github.com/rails/rails-html-sanitizer,f3ba1a839a35f2ba7f941c15e239a1cb379d56ae,Ruby,40.0,37.0,3.0
+marcus-h,https://github.com/openSUSE/open-build-service,b15cf19e9e01115f653c76ffdc8f54cd97566553,Ruby,47.0,44.0,3.0
+marcus-h,https://github.com/openSUSE/open-build-service,990ef7cccef6f38fc1d1a1bb22a08e174dcba43b,Ruby,49.0,49.0,0.0
+janko,https://github.com/minimagick/minimagick,4cd5081e58810d3394d27a67219e8e4e0445d851,Ruby,22.0,14.0,8.0
+geemus,https://github.com/excon/excon,ccb57d7a422f020dc74f1de4e8fb505ab46d8a29,Ruby,39.0,39.0,0.0
+nov,https://github.com/nov/json-jwt,ada16e772906efdd035e3df49cb2ae372f0f948a,Ruby,6.0,3.0,3.0
+tany,https://github.com/shirasagi/shirasagi,6016948ea535e51b16535888af13df064a1a15d3,Ruby,2.0,1.0,1.0
+joshbuker,https://github.com/Sorcery/sorcery,0f116d223826895a73b12492f17486e5d54ab7a7,Ruby,8.0,4.0,4.0
+viseztrance,https://github.com/kaminari/kaminari,8dd52a1aed3d2fa2835d836de23fc0d8c4ff5db8,Ruby,2.0,1.0,1.0
+BuffaloWill,https://github.com/SerpicoProject/Serpico,0b8600414976a5ad733604c7b1428071baf239c2,Ruby,1.0,1.0,0.0
+rolfschmidt,https://github.com/zammad/zammad,6e56aee25439b7a3211a6704a9d60453ad623ae4,Ruby,45.0,43.0,2.0
+jimmyjames,https://github.com/auth0/omniauth-auth0,fd3a14f4ccdfbc515d1121d6378ff88bf55a7a7a,Ruby,266.0,236.0,30.0
+Morantron,https://github.com/spree/spree,e43643abfe51f54bd9208dd02298b366e9b9a847,Ruby,24.0,22.0,2.0
+mame,https://github.com/ruby/webrick,8946bb38b4d87549f0d99ed73c62c41933f97cc7,Ruby,6.0,3.0,3.0
+nhosoya,https://github.com/nhosoya/omniauth-apple,b37d5409213adae2ca06a67fec14c8d3d07d9016,Ruby,17.0,16.0,1.0
+rolfschmidt,https://github.com/zammad/zammad,cf5a5e396058d4b134dd33d0a62b11c1733c98ab,Ruby,21.0,19.0,2.0
+rolfschmidt,https://github.com/zammad/zammad,28944de180a88698509a656f61558bf9d7f810f4,Ruby,33.0,24.0,9.0
+nickcharlton,https://github.com/thoughtbot/administrate,3ab838b83c5f565fba50e0c6f66fe4517f98eed3,Ruby,19.0,17.0,2.0
+tenderlove,https://github.com/rails/rails,033a738817abd6e446e1b320cb7d1a5c15224e9a,Ruby,14.0,12.0,2.0
+sunny4381,https://github.com/shirasagi/shirasagi,040a02c9d4b5dd2f91c5c29c0008a47cde6ee99a,Ruby,171.0,163.0,8.0
+jcoglan,https://github.com/faye/websocket-extensions-ruby,aa156a439da681361ed6f53f1a8131892418838b,Ruby,8.0,7.0,1.0
+alexreisner,https://github.com/alexreisner/geocoder,dcdc3d8675411edce3965941a2ca7c441ca48613,Ruby,8.0,4.0,4.0
+mshibuya,https://github.com/carrierwaveuploader/carrierwave,012702eb3ba1663452aa025831caa304d1a665c0,Ruby,257.0,197.0,60.0
+mshibuya,https://github.com/carrierwaveuploader/carrierwave,387116f5c72efa42bc3938d946b4c8d2f22181b7,Ruby,46.0,42.0,4.0
+brian-kephart,https://github.com/owen2345/camaleon-cms,77e31bc6cdde7c951fba104aebcd5ebb3f02b030,Ruby,37.0,32.0,5.0
+brian-kephart,https://github.com/owen2345/camaleon-cms,ab89584ab32b98a0af3d711e3f508a1d048147d2,Ruby,2.0,1.0,1.0
+julianguyen,https://github.com/ifmeorg/ifme,720a47015e46ad387b3219fed7ebfb14ec3c854c,Ruby,173.0,136.0,37.0
+julianguyen,https://github.com/ifmeorg/ifme,014f6d3526a594109d4d6607c2f30b1865e37611,Ruby,6.0,5.0,1.0
+spohlenz,https://github.com/TrestleAdmin/trestle-auth,cb95b05cdb2609052207af07b4b8dfe3a23c11dc,Ruby,3.0,3.0,0.0
+jbrw,https://github.com/discourse/discourse,fb14e50741a4880cda22244eded8858e2f5336ef,Ruby,17.0,15.0,2.0
+tgxworld,https://github.com/discourse/discourse,aed65ec16d38886d7be7209d8c02df4ffd4937a4,Ruby,71.0,62.0,9.0
+keulinho,https://github.com/shopware/platform,abe9f69e1f667800f974acccd3047b4930e4b423,Ruby,2.0,1.0,1.0
+sojan-official,https://github.com/chatwoot/chatwoot,9454c6b14f75e778ef98cf84bdafdf0ed8ae5705,Ruby,30.0,29.0,1.0
+tgxworld,https://github.com/discourse/discourse,27bad28c530c89acab35a56b945b6a3924280f4b,Ruby,70.0,40.0,30.0
+tgxworld,https://github.com/discourse/discourse,ddb458343dc39a7a8c99467dcd809b444514fe2c,Ruby,64.0,44.0,20.0
+lis2,https://github.com/discourse/discourse-reactions,213d90b82fd15c4186ebc290fee18817d9727d0d,Ruby,87.0,86.0,1.0
+tobiasKaminsky,https://github.com/nextcloud/android,b6ecf515b38c2d82d32743f27236534f3e03ee0c,Ruby,5.0,3.0,2.0
+damianlegawiec,https://github.com/spree/spree_auth_devise,adf6ed4cd94d66091776b5febd4ff3767362de63,Ruby,49.0,48.0,1.0
+boardfish,https://github.com/rubygems/rubygems,a4f2f8ac17e6ce81c689527a8b6f14381060d95f,Ruby,22.0,21.0,1.0
+waiting-for-dev,https://github.com/solidusio/solidus,4d17cacf066d9492fc04eb3a0b16084b47376d81,Ruby,1.0,0.0,1.0
+StefSchenkelaars,https://github.com/rails/rails,0fccfb9a3097a9c4260c791f1a40b128517e7815,Ruby,99.0,91.0,8.0
+mvz,https://github.com/publify/publify,16fceecadbe80ab0ef846b62a12dc7bfff10b8c5,Ruby,16.0,16.0,0.0
+muhsin-k,https://github.com/chatwoot/chatwoot,a737f89c473e64f9abdf8ff13a3e64edefa28877,Ruby,67.0,54.0,13.0
+mvz,https://github.com/publify/publify,0e6c66ac2002136517662399bca9d838c80d9739,Ruby,31.0,29.0,2.0
+mvz,https://github.com/publify/publify,b50df050c593cc532b2c516792989bcfce2d73f7,Ruby,29.0,28.0,1.0
+fanpu,https://github.com/autolab/autolab,02d76ab3737689bba95ffe9a1c69ca5166d71c6b,Ruby,3.0,2.0,1.0
+muhsin-k,https://github.com/chatwoot/chatwoot,24b20c10cebd25e61de8d4266c63fde94772e889,Ruby,62.0,52.0,10.0
+mvz,https://github.com/publify/publify,1a78f16f460847274265a12a9555b3524892d7db,Ruby,36.0,33.0,3.0
+mvz,https://github.com/publify/publify,c0aba87844d1e47da50c0d99a3465164a4d244ce,Ruby,24.0,22.0,2.0
+mvz,https://github.com/publify/publify,0fb6b027fbaf17f6a6551f2148482a03eac12927,Ruby,54.0,38.0,16.0
+arpitjalan,https://github.com/discourse/discourse,702685b6a06ae45a544fc702027f1e4573d94aaa,Ruby,8.0,7.0,1.0
+tgxworld,https://github.com/discourse/discourse,fff8b98485561b12d070c0a8c39f4e503813ab44,Ruby,60.0,52.0,8.0
+nbianca,https://github.com/discourse/discourse,5e2e178fcfb490c37b9f8bb9f737185441b1d6de,Ruby,12.0,11.0,1.0
+udan11,https://github.com/discourse/discourse,584c6a2e8bc705072b09a9c4b55126d6f8ed4ad2,Ruby,27.0,24.0,3.0
+omohokcoj,https://github.com/motor-admin/motor-admin,a461b7507940a1fa062836daa89c82404fe3ecf9,Ruby,4.0,2.0,2.0
+tenderlove,https://github.com/rails/rails,f9a2ad03943d5c2ba54e1d45f155442b519c75da,Ruby,2.0,1.0,1.0
+byroot,https://github.com/puma/puma,b70f451fe8abc0cff192c065d549778452e155bb,Ruby,15.0,10.0,5.0
+lis2,https://github.com/discourse/discourse,a34075d205a8857e29574ffd82aaece0c467565e,Ruby,38.0,35.0,3.0
+mperham,https://github.com/mperham/sidekiq,7785ac1399f1b28992adb56055f6acd88fd1d956,Ruby,19.0,17.0,2.0
+martin-brennan,https://github.com/discourse/discourse,9d5737fd28374cc876c070f6c3a931a8071ec356,Ruby,73.0,51.0,22.0
+jirutka,https://github.com/jirutka/asciidoctor-include-ext,c7ea001a597c7033575342c51483dab7b87ae155,Ruby,37.0,28.0,9.0
+jirutka,https://github.com/jirutka/asciidoctor-include-ext,cbaccf3de533cbca224bf61d0b74e4b84d41d8ee,Ruby,14.0,10.0,4.0
+autor nulo,https://github.com/amro/gibbon,b2eb99ed304d7491a6d348a5bbdc83a008fc6e0b,Ruby,10.0,9.0,1.0
+tgxworld,https://github.com/discourse/discourse,0fa0094531efc82d9371f90a02aa804b176d59cf,Ruby,32.0,30.0,2.0
+gschlager,https://github.com/discourse/discourse,7c4e2d33fa4b922354c177ffc880a2f2701a91f9,Ruby,164.0,56.0,108.0
+oblakeerickson,https://github.com/discourse/discourse,ae6a9079436fb9b20fd051d25fb6d8027f0ec59a,Ruby,50.0,50.0,0.0
+autor nulo,https://github.com/samg/diffy,478f392082b66d38f54a02b4bb9c41be32fd6593,Ruby,8.0,1.0,7.0
